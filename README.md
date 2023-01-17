@@ -1,7 +1,15 @@
 # web_scraping_projects
 
-This will be the folder where I put some of my web scraping projects from various<br>
-websites using various methods in Python.
+This is my portfolio exclusively for web scraping department. <br>
+In this repository, you will find my collection of web scraping projects from <br>
+various websites using various methods and libraries in Python <br>
+(it could be beautifulsoup, selenium, APIs, or combination). <br>
+You will find the description, including which libraries you might need to<br>
+install, here in this readme text (see below). <br><br>
+More projects will be added in the future. Stay updated, stay connected!<br>
+For questions, requests, works, and/or anything else, <br>
+do contact me at: mdimasaac@hotmail.com<br>
+Thank you for checking out my portfolio.
 
 ## Decathlon Latest Sale
 
