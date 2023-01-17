@@ -1,0 +1,548 @@
+address,city,state,zipcode,location,coordinates,latitude,longitude
+"205 Summit Blvd, Suite 100",Birmingham,Alabama (AL),35243,"205 Summit Blvd, Suite 100, Birmingham, AL, 35243, US","205 Summit Blvd, Ste 100, Vestavia, Alabama, 35243",33.4476669893822,-86.7288139680069
+1100 Mid City Dr NW,Huntsville,Alabama (AL),35806,"1100 Mid City Dr NW, Huntsville, AL, 35806, US","35806, Huntsville, Alabama",34.75517000000008,-86.69456499999995
+11500 Financial Centre Pky,Little Rock,Arkansas (AR),72211,"11500 Financial Centre Pky, Little Rock, AR, 72211, US","11500 Financial Centre Pky, Little Rock, Arkansas, 72211",34.74822324456099,-92.40162468161509
+1779 E. Williams Field Rd.,Gilbert,Arizona (AZ),85295,"1779 E. Williams Field Rd., Gilbert, AZ, 85295, US","1779 E Williams Field Rd, Gilbert, Arizona, 85295",33.30644415845464,-111.75171545322598
+7720 West Bell Rd,Glendale,Arizona (AZ),85308,"7720 West Bell Rd, Glendale, AZ, 85308, US","7720 W Bell Rd, Glendale, Arizona, 85308",33.63930101675881,-112.2265309897375
+2050 E Baseline Rd,Mesa,Arizona (AZ),85204,"2050 E Baseline Rd, Mesa, AZ, 85204, US","2050 E Baseline Rd, Mesa, Arizona, 85204",33.38096200180284,-111.7868279999992
+7912 N Oracle,Oro Valley,Arizona (AZ),85704,"7912 N Oracle, Oro Valley, AZ, 85704, US","7912 N Oracle Rd, Tucson, Arizona, 85704",32.350085979490586,-110.97337502565858
+4025 E Chandler Blvd,Phoenix,Arizona (AZ),85048,"4025 E Chandler Blvd, Phoenix, AZ, 85048, US","4025 E Chandler Blvd, Phoenix, Arizona, 85048",33.304735004578134,-111.99499499611323
+4726 East Shea Blvd,Phoenix,Arizona (AZ),85028,"4726 East Shea Blvd, Phoenix, AZ, 85028, US","4726 E Shea Blvd, Phoenix, Arizona, 85028",33.58432599975929,-111.980048973104
+4821 N 20th St,Phoenix,Arizona (AZ),85016,"4821 N 20th St, Phoenix, AZ, 85016, US","4821 N 20th St, Phoenix, Arizona, 85016",33.5080790116955,-112.03746400402741
+252 N Lee Blvd,Prescott,Arizona (AZ),86303,"252 N Lee Blvd, Prescott, AZ, 86303, US","252 Lee Blvd, Prescott, Arizona, 86303",34.54858600839441,-112.40532796476285
+21186 S. Ellsworth Loop Rd,Queen Creek,Arizona (AZ),85142,"21186 S. Ellsworth Loop Rd, Queen Creek, AZ, 85142, US","21186 S Ellsworth Loop Rd, Queen Creek, Arizona, 85142",33.25610243075991,-111.63846746572521
+7555 E Frank Lloyd Wright,Scottsdale,Arizona (AZ),85260,"7555 E Frank Lloyd Wright, Scottsdale, AZ, 85260, US","7555 E Frank Lloyd Wright Blvd, Scottsdale, Arizona, 85260",33.63592202013169,-111.91716399598735
+6202 N Scottsdale Rd,Scottsdale,Arizona (AZ),85253,"6202 N Scottsdale Rd, Scottsdale, AZ, 85253, US","6202 N Scottsdale Rd, Paradise Valley, Arizona, 85253",33.52945299052142,-111.92746401388546
+14095 W Grand Ave,Surprise,Arizona (AZ),85374,"14095 W Grand Ave, Surprise, AZ, 85374, US","14095 W Grand Ave, Surprise, Arizona, 85374",33.651361988695044,-112.36740697751166
+940 E. University Drive,Tempe,Arizona (AZ),85281,"940 E. University Drive, Tempe, AZ, 85281, US","940 E University Dr, Tempe, Arizona, 85281",33.422711004234245,-111.92498095888877
+6460 S McClintock Dr,Tempe,Arizona (AZ),85283,"6460 S McClintock Dr, Tempe, AZ, 85283, US","6460 S McClintock Dr, Tempe, Arizona, 85283",33.361835001670684,-111.91180301453537
+1101 N Wilmot Rd,Tucson,Arizona (AZ),85712,"1101 N Wilmot Rd, Tucson, AZ, 85712, US","1101 N Wilmot Rd, Tucson, Arizona, 85712",32.237018003238845,-110.85872802457713
+4209 N Campbell Ave,Tucson,Arizona (AZ),85719,"4209 N Campbell Ave, Tucson, AZ, 85719, US","4209 N Campbell Ave, Tucson, Arizona, 85719",32.28350600799709,-110.94459701839118
+4766 E Grant Rd,Tucson,Arizona (AZ),85712,"4766 E Grant Rd, Tucson, AZ, 85712, US","4766 E Grant Rd, Tucson, Arizona, 85712",32.24994599923954,-110.89090397157283
+28941 Canwood St,Agoura Hills,California (CA),91301,"28941 Canwood St, Agoura Hills, CA, 91301, US","28941 Canwood St, Agoura Hills, California, 91301",34.14644500899429,-118.75658400298869
+2217 South Shore Center,Alameda,California (CA),94501,"2217 South Shore Center, Alameda, CA, 94501, US","2217 S Shore Ctr, Alameda, California, 94501",37.757541019356594,-122.25166202627665
+26541 Aliso Creek Rd,Aliso Viejo,California (CA),92656,"26541 Aliso Creek Rd, Aliso Viejo, CA, 92656, US","26541 Aliso Creek Rd, Aliso Viejo, California, 92656",33.577426017065264,-117.72462696662387
+955 Rancho Pkwy,Arroyo Grande,California (CA),93420,"955 Rancho Pkwy, Arroyo Grande, CA, 93420, US","955 Rancho Pkwy, Arroyo Grande, California, 93420",35.12627745285234,-120.59516990611428
+8200 Stockdale Hwy,Bakersfield,California (CA),93311,"8200 Stockdale Hwy, Bakersfield, CA, 93311, US","8200 Stockdale Hwy, Bakersfield, California, 93311",35.35576600830805,-119.09375997218012
+1885 University Ave,Berkeley,California (CA),94703,"1885 University Ave, Berkeley, CA, 94703, US","1885 University Ave, Berkeley, California, 94703",37.87162632962154,-122.27338377837017
+2500 E Imperial Hwy,Brea,California (CA),92821,"2500 E Imperial Hwy, Brea, CA, 92821, US","2500 E Imperial Hwy, Brea, California, 92821",33.91024100776308,-117.8664419790108
+5451 Lone Tree Way,Brentwood,California (CA),94513,"5451 Lone Tree Way, Brentwood, CA, 94513, US","5451 Lone Tree Way, Brentwood, California, 94513",37.96059601845248,-121.75002599216533
+214 E Alameda Ave,Burbank,California (CA),91502,"214 E Alameda Ave, Burbank, CA, 91502, US","214 E Alameda Ave, Burbank, California, 91502",34.17493752995929,-118.29924716687071
+23741 Calabasas Rd.,Calabasas,California (CA),91302,"23741 Calabasas Rd., Calabasas, CA, 91302, US","23741 Calabasas Rd, Calabasas, California, 91302",34.155621013676566,-118.64497099939965
+363 Carmen Dr,Camarillo,California (CA),93010,"363 Carmen Dr, Camarillo, CA, 93010, US","363 Carmen Dr, Camarillo, California, 93010",34.21973000011394,-119.0532140243115
+1875 Bascom Ave,Campbell,California (CA),95008,"1875 Bascom Ave, Campbell, CA, 95008, US","1875 S Bascom Ave, Campbell, California, 95008",37.288148993294755,-121.93348397590847
+3555 Clares St #D,Capitola,California (CA),95010,"3555 Clares St #D, Capitola, CA, 95010, US","3555 Clares St, Ste D, Capitola, California, 95010",36.97860899706306,-121.9693710105351
+2629 Gateway Rd,Carlsbad,California (CA),92009,"2629 Gateway Rd, Carlsbad, CA, 92009, US","2629 Gateway Rd, Carlsbad, California, 92009",33.12666298035842,-117.2546560025097
+22224 Redwood Road,Castro Valley,California (CA),94546,"22224 Redwood Road, Castro Valley, CA, 94546, US","22224 Redwood Rd, Castro Valley, California, 94546",37.685384986775645,-122.07300603486271
+67720 E Palm Canyon Dr,Cathedral City,California (CA),92234,"67720 E Palm Canyon Dr, Cathedral City, CA, 92234, US","67720 E Palm Canyon Dr, Cathedral City, California, 92234",33.78923800950369,-116.48309100255514
+12861 Towne Center Dr,Cerritos,California (CA),90703,"12861 Towne Center Dr, Cerritos, CA, 90703, US","12861 Towne Center Dr, Cerritos, California, 90703",33.86930601385855,-118.05800501166749
+10330 Mason Ave,Chatsworth,California (CA),91311,"10330 Mason Ave, Chatsworth, CA, 91311, US","10330 Mason Ave, Chatsworth, California, 91311",34.258412986182805,-118.57869503953432
+801 East Ave,Chico,California (CA),95926,"801 East Ave, Chico, CA, 95926, US","801 East Ave, Chico, California, 95926",39.760327003784624,-121.84662097219686
+13911 Peyton Drive,Chino Hills,California (CA),91709,"13911 Peyton Drive, Chino Hills, CA, 91709, US","13911 Peyton Dr, Chino Hills, California, 91709",34.000537993386644,-117.73210002003802
+878 Eastlake Pkwy,Chula Vista,California (CA),91914,"878 Eastlake Pkwy, Chula Vista, CA, 91914, US","878 Eastlake Pkwy, Chula Vista, California, 91914",32.65145299148348,-116.97049297251296
+475 W Foothill Blvd,Claremont,California (CA),91711,"475 W Foothill Blvd, Claremont, CA, 91711, US","475 W Foothill Blvd, Claremont, California, 91711",34.10714729953691,-117.72168418821393
+1077 N Willow Ave,Clovis,California (CA),93611,"1077 N Willow Ave, Clovis, CA, 93611, US","1077 N Willow Ave, Clovis, California, 93611",36.84925401902257,-119.72842804143598
+1150 Concord Ave,Concord,California (CA),94520,"1150 Concord Ave, Concord, CA, 94520, US","1150 Concord Ave, Concord, California, 94520",37.97913599199575,-122.05645102171994
+785 Oak Grove Rd,Concord,California (CA),94518,"785 Oak Grove Rd, Concord, CA, 94518, US","785 Oak Grove Rd, Concord, California, 94518",37.93685800765495,-122.0247950041782
+2790 Cabot Dr,Corona,California (CA),92883,"2790 Cabot Dr, Corona, CA, 92883, US","2790 Cabot Dr, Corona, California, 92883",33.8122529973333,-117.50764899771085
+640 W 17th St,Costa Mesa,California (CA),92627,"640 W 17th St, Costa Mesa, CA, 92627, US","640 W 17th St, Costa Mesa, California, 92627",33.63678502088263,-117.92463401235855
+6150 Slauson Ave,Culver City,California (CA),90230,"6150 Slauson Ave, Culver City, CA, 90230, US","6150 W Slauson Ave, Culver City, California, 90230",33.988015010947365,-118.39291099384097
+9290 Culver Blvd,Culver City,California (CA),90232,"9290 Culver Blvd, Culver City, CA, 90232, US","9290 Culver Blvd, Culver City, California, 90232",34.02516901214848,-118.39293102658957
+417 Westlake Center,Daly City,California (CA),94015,"417 Westlake Center, Daly City, CA, 94015, US","417 Westlake Ctr, Daly City, California, 94015",37.69993500676934,-122.48258496750267
+85 Railroad Ave,Danville,California (CA),94526,"85 Railroad Ave, Danville, CA, 94526, US","85 Railroad Ave, Danville, California, 94526",37.82291898402521,-122.00322702620329
+885 Russell Blvd,Davis,California (CA),95616,"885 Russell Blvd, Davis, CA, 95616, US","885 Russell Blvd, Davis, California, 95616",38.54677201181033,-121.76148899912903
+1566 Colorado Blvd,Eagle Rock,California (CA),90041,"1566 Colorado Blvd, Eagle Rock, CA, 90041, US","1566 Colorado Blvd, Los Angeles, California, 90041",34.13913301384967,-118.20037498986366
+225 El Cerrito Plaza,El Cerrito,California (CA),94530,"225 El Cerrito Plaza, El Cerrito, CA, 94530, US","225 El Cerrito Plz, El Cerrito, California, 94530",37.898927004029474,-122.29981899368568
+9670 Bruceville Road,Elk Grove,California (CA),95757,"9670 Bruceville Road, Elk Grove, CA, 95757, US","9670 Bruceville Rd, Elk Grove, California, 95757",38.40665584355904,-121.42023313856694
+5700 Christie Ave,Emeryville,California (CA),94608,"5700 Christie Ave, Emeryville, CA, 94608, US","5700 Christie Ave, Emeryville, California, 94608",37.836984991020046,-122.2942460339024
+115 N El Camino Real,Encinitas,California (CA),92024,"115 N El Camino Real, Encinitas, CA, 92024, US","115 N El Camino Real, Encinitas, California, 92024",33.04842205584059,-117.25955146528037
+17640 Burbank Blvd,Encino,California (CA),91316,"17640 Burbank Blvd, Encino, CA, 91316, US","17640 Burbank Blvd, Encino, California, 91316",34.171841002149435,-118.51776204002917
+1885 S Centre City Pkwy,Escondido,California (CA),92025,"1885 S Centre City Pkwy, Escondido, CA, 92025, US","1885 S Centre City Pkwy, Escondido, California, 92025",33.10017101145357,-117.07484900815172
+1350 Gateway Blvd,Fairfield,California (CA),94533,"1350 Gateway Blvd, Fairfield, CA, 94533, US","1350 Gateway Blvd, Fairfield, California, 94533",38.263925988350024,-122.0528069893144
+5309 Sunrise Blvd,Fair Oaks,California (CA),95628,"5309 Sunrise Blvd, Fair Oaks, CA, 95628, US","5309 Sunrise Blvd, Fair Oaks, California, 95628",38.662808732438265,-121.27388888098015
+850 East Bidwell,Folsom,California (CA),95630,"850 East Bidwell, Folsom, CA, 95630, US","850 E Bidwell St, Folsom, California, 95630",38.672139006048496,-121.15578417720076
+39324 Argonaut Way,Fremont,California (CA),94538,"39324 Argonaut Way, Fremont, CA, 94538, US","39324 Argonaut Way, Fremont, California, 94538",37.54341901631254,-121.98611201810935
+8478 N. Friant Road,Fresno,California (CA),93720,"8478 N. Friant Road, Fresno, CA, 93720, US","8478 N Friant Rd, Fresno, California, 93720",36.85832998569046,-119.78248201300505
+103 E Glenoaks Blvd,Glendale,California (CA),91207,"103 E Glenoaks Blvd, Glendale, CA, 91207, US","103 E Glenoaks Blvd, Glendale, California, 91207",34.15924950062501,-118.25484859772837
+5767 Calle Real,Goleta,California (CA),93117,"5767 Calle Real, Goleta, CA, 93117, US","5767 Calle Real, Goleta, California, 93117",34.4408200049963,-119.82494004062607
+11114 Balboa Blvd,Granada Hills,California (CA),91344,"11114 Balboa Blvd, Granada Hills, CA, 91344, US","11114 Balboa Blvd, Granada Hills, California, 91344",34.272980985358814,-118.50043496978489
+2052 Redwood Hwy,Greenbrae,California (CA),94904,"2052 Redwood Hwy, Greenbrae, CA, 94904, US","2052 Redwood Hwy, Greenbrae, California, 94904",37.937658018403525,-122.51487398637221
+1100 Pacific Coast Hwy,Hermosa Beach,California (CA),90254,"1100 Pacific Coast Hwy, Hermosa Beach, CA, 90254, US","1100 Pacific Coast Hwy, Hermosa Beach, California, 90254",33.863793990511354,-118.39189301170032
+18681 Main St,Huntington Beach,California (CA),92648,"18681 Main St, Huntington Beach, CA, 92648, US","18681 Main St, Huntington Beach, California, 92648",33.69237698786537,-117.99269297066735
+21431 Brookhurst St,Huntington Beach,California (CA),92646,"21431 Brookhurst St, Huntington Beach, CA, 92646, US","21431 Brookhurst St, Huntington Beach, California, 92646",33.65136798175581,-117.9548950297548
+16821 Algonquin St,Huntington Beach,California (CA),92649,"16821 Algonquin St, Huntington Beach, CA, 92649, US","16821 Algonquin St, Huntington Beach, California, 92649",33.7175710190635,-118.05146997703773
+4225 Campus Dr,Irvine,California (CA),92612,"4225 Campus Dr, Irvine, CA, 92612, US","4225 Campus Dr, Irvine, California, 92612",33.64909341108075,-117.83934878908003
+14443 Culver Dr,Irvine,California (CA),92604,"14443 Culver Dr, Irvine, CA, 92604, US","14443 Culver Dr, Irvine, California, 92604",33.70625100736797,-117.78833496281334
+6222 Irvine Blvd,Irvine,California (CA),92620,"6222 Irvine Blvd, Irvine, CA, 92620, US","6222 Irvine Blvd, Irvine, California, 92620",33.70027536725766,-117.7409611783837
+475 Foothill Blvd,La Canada,California (CA),91011,"475 Foothill Blvd, La Canada, CA, 91011, US","475 Foothill Blvd, La Canada Flintridge, California, 91011",34.19998701391741,-118.18841099654716
+3649 Mt Diablo Blvd,Lafayette,California (CA),94549,"3649 Mt Diablo Blvd, Lafayette, CA, 94549, US","3649 Mt Diablo Blvd, Lafayette, California, 94549",37.890228013456905,-122.12693402642708
+24231 Avenida De La Carlota,Laguna Hills,California (CA),92653,"24231 Avenida De La Carlota, Laguna Hills, CA, 92653, US","24231 Avenida de la Carlota, Laguna Hills, California, 92653",33.60986398235423,-117.70295496923055
+32351 Street of the Golden Lantern,Laguna Niguel,California (CA),92677,"32351 Street of the Golden Lantern, Laguna Niguel, CA, 92677, US","32351 Street of the Golden Lantern, Laguna Niguel, California, 92677",33.492840317362905,-117.69640642699399
+"2101 W. Imperial Hwy, Suite A",La Habra,California (CA),90631,"2101 W. Imperial Hwy, Suite A, La Habra, CA, 90631, US","2101 W Imperial Hwy, La Habra, California, 90631",33.918800984471474,-117.96917997206057
+8657 Villa la Jolla Dr,La Jolla,California (CA),92037,"8657 Villa la Jolla Dr, La Jolla, CA, 92037, US","8657 Villa la Jolla Dr, La Jolla, California, 92037",32.86630401055622,-117.23180601244411
+5495 Grossmont Center Dr,La Mesa,California (CA),91942,"5495 Grossmont Center Dr, La Mesa, CA, 91942, US","5495 Grossmont Center Dr, La Mesa, California, 91942",32.77917400131895,-117.00565799000006
+46400 Washington St,La Quinta,California (CA),92253,"46400 Washington St, La Quinta, CA, 92253, US","46400 Washington St, La Quinta, California, 92253",33.71198598933964,-116.29424203014665
+1122 A East Stanley Blvd,Livermore,California (CA),94550,"1122 A East Stanley Blvd, Livermore, CA, 94550, US","1122 E Stanley Blvd, Livermore, California, 94550",37.680277013071006,-121.78193698720165
+2222 North Bellflower Blvd,Long Beach,California (CA),90815,"2222 North Bellflower Blvd, Long Beach, CA, 90815, US","2222 N Bellflower Blvd, Long Beach, California, 90815",33.79691700627883,-118.12287096778064
+4210 Long Beach Blvd,Long Beach,California (CA),90807,"4210 Long Beach Blvd, Long Beach, CA, 90807, US","4210 Long Beach Blvd, Long Beach, California, 90807",33.83504599045732,-118.1889999928833
+6451 E Pacific Coast  Hwy,Long Beach,California (CA),90803,"6451 E Pacific Coast  Hwy, Long Beach, CA, 90803, US","6451 E Pacific Coast Hwy, Long Beach, California, 90803",33.7577790085961,-118.10904300683599
+2310 Homestead Rd,Los Altos,California (CA),94024,"2310 Homestead Rd, Los Altos, CA, 94024, US","2310 Homestead Rd, Los Altos, California, 94024",37.33662698759541,-122.06768998041176
+1600 N Vine St,Los Angeles,California (CA),90028,"1600 N Vine St, Los Angeles, CA, 90028, US","1600N Vine St, Los Angeles, California, 90028",34.100600985857,-118.32589499574429
+263 S La Brea Ave,Los Angeles,California (CA),90036,"263 S La Brea Ave, Los Angeles, CA, 90036, US","263 S La Brea Ave, Los Angeles, California, 90036",34.069154012980476,-118.34437902008386
+175 South Fairfax Ave,Los Angeles,California (CA),90036,"175 South Fairfax Ave, Los Angeles, CA, 90036, US","175 S Fairfax Ave, Los Angeles, California, 90036",34.072178999926976,-118.36176199762232
+8500 Burton Way,Los Angeles,California (CA),90048,"8500 Burton Way, Los Angeles, CA, 90048, US","8500 Burton Way, Los Angeles, California, 90048",34.070991996708784,-118.37675596511772
+11755 Olympic Blvd,Los Angeles,California (CA),90064,"11755 Olympic Blvd, Los Angeles, CA, 90064, US","11755 W Olympic Blvd, Los Angeles, California, 90064",34.03373598774603,-118.44956695961281
+2738 Hyperion Ave,Los Angeles,California (CA),90027,"2738 Hyperion Ave, Los Angeles, CA, 90027, US","2738 Hyperion Ave, Los Angeles, California, 90027",34.10764698130434,-118.27166399838015
+8000 W Sunset Blvd,Los Angeles,California (CA),90046,"8000 W Sunset Blvd, Los Angeles, CA, 90046, US","8000 W Sunset Blvd, Los Angeles, California, 90046",34.0974719794921,-118.36513998842106
+3131 S Hoover Street,Los Angeles,California (CA),90089,"3131 S Hoover Street, Los Angeles, CA, 90089, US","3131 S Hoover St, Los Angeles, California, 90089",34.025725989614486,-118.2850619676919
+10850 National Blvd,Los Angeles,California (CA),90064,"10850 National Blvd, Los Angeles, CA, 90064, US","10850 National Blvd, Los Angeles, California, 90064",34.02992398200088,-118.42140099891526
+3456 S Sepulveda Blvd,Los Angeles,California (CA),90034,"3456 S Sepulveda Blvd, Los Angeles, CA, 90034, US","3456 S Sepulveda Blvd, Los Angeles, California, 90034",34.020431015650004,-118.42221496553263
+1000 Glendon Ave,Los Angeles,California (CA),90024,"1000 Glendon Ave, Los Angeles, CA, 90024, US","1000 Glendon Ave, Los Angeles, California, 90024",34.06167299675833,-118.44366702178664
+15466 Los Gatos Blvd,Los Gatos,California (CA),95032,"15466 Los Gatos Blvd, Los Gatos, CA, 95032, US","15466 Los Gatos Blvd, Los Gatos, California, 95032",37.24442798050326,-121.95807396525427
+1821 Manhattan Beach Blvd,Manhattan Beach,California (CA),90266,"1821 Manhattan Beach Blvd, Manhattan Beach, CA, 90266, US","1821 Manhattan Beach Blvd, Manhattan Beach, California, 90266",33.887634009070524,-118.37985400035039
+1800 Rosecrans Blvd,Manhattan Beach,California (CA),90266,"1800 Rosecrans Blvd, Manhattan Beach, CA, 90266, US","1800 Rosecrans Ave, Manhattan Beach, California, 90266",33.90050500812964,-118.37967404088921
+4675 Admiralty Way,Marina Del Rey,California (CA),90292,"4675 Admiralty Way, Marina Del Rey, CA, 90292, US","4675 Admiralty Way, Marina Del Rey, California, 90292",33.980620998880184,-118.44391797596771
+720 Menlo Ave,Menlo Park,California (CA),94025,"720 Menlo Ave, Menlo Park, CA, 94025, US","720 Menlo Ave, Menlo Park, California, 94025",37.45125500366616,-122.18353802439921
+765 Broadway,Millbrae,California (CA),94030,"765 Broadway, Millbrae, CA, 94030, US","765 Broadway, Millbrae, California, 94030",37.603476987035705,-122.39573503956001
+1306 Great Mall Pkwy,Milpitas,California (CA),95035,"1306 Great Mall Pkwy, Milpitas, CA, 95035, US","1306 Great Mall Dr, Milpitas, California, 95035",37.412515967942085,-121.89678242226793
+25410 Marguerite Pkwy,Mission Viejo,California (CA),92692,"25410 Marguerite Pkwy, Mission Viejo, CA, 92692, US","25410 Marguerite Pkwy, Mission Viejo, California, 92692",33.59272299036044,-117.65871603864186
+3250 Dale Road,Modesto,California (CA),95356,"3250 Dale Road, Modesto, CA, 95356, US","3250 Dale Rd, Modesto, California, 95356",37.68659600414642,-121.04934004184294
+604 W Huntington Dr,Monrovia,California (CA),91016,"604 W Huntington Dr, Monrovia, CA, 91016, US","604 W Huntington Dr, Monrovia, California, 91016",34.14017772342741,-118.01201839405131
+570 Munras Ave,Monterey,California (CA),93940,"570 Munras Ave, Monterey, CA, 93940, US","570 Munras Ave, Monterey, California, 93940",36.596485994102665,-121.89446697099808
+2462 Honolulu Ave,Montrose,California (CA),91020,"2462 Honolulu Ave, Montrose, CA, 91020, US","2462 Honolulu Ave, Montrose, California, 91020",34.206872998833134,-118.2329100175914
+17035 Laurel Rd,Morgan Hill,California (CA),95037,"17035 Laurel Rd, Morgan Hill, CA, 95037, US","17035 Laurel Rd, Morgan Hill, California, 95037",37.1311759795673,-121.63827099913651
+590 Showers Dr,Mountain View,California (CA),94040,"590 Showers Dr, Mountain View, CA, 94040, US","590 Showers Dr, Mountain View, California, 94040",37.40203801887205,-122.11078302101734
+3654 Bel Aire Plaza,Napa,California (CA),94558,"3654 Bel Aire Plaza, Napa, CA, 94558, US","3654 Bel Aire Plz, Napa, California, 94558",38.32279699776453,-122.30584700699237
+8086 E Pacific Coast Hwy,Newport Beach,California (CA),92657,"8086 E Pacific Coast Hwy, Newport Beach, CA, 92657, US","8086 Pacific Coast Hwy, Newport Coast, California, 92657",33.56763143766145,-117.83138691106419
+6130 Laurel Canyon Bl,North Hollywood,California (CA),91606,"6130 Laurel Canyon Bl, North Hollywood, CA, 91606, US","6130 Laurel Canyon Blvd, North Hollywood, California, 91606",34.181875248973846,-118.39644366264737
+7514 Redwood Blvd,Novato,California (CA),94945,"7514 Redwood Blvd, Novato, CA, 94945, US","7514 Redwood Blvd, Novato, California, 94945",38.1117889974787,-122.56790896997224
+3250 Lakeshore Ave,Oakland,California (CA),94610,"3250 Lakeshore Ave, Oakland, CA, 94610, US","3250 Lakeshore Ave, Oakland, California, 94610",37.809737016358284,-122.24424999311765
+5727 College Ave,Oakland,California (CA),94618,"5727 College Ave, Oakland, CA, 94618, US","5727 College Ave, Oakland, California, 94618",37.84555100269874,-122.25277497538029
+2570 Vista Way,Oceanside,California (CA),92054,"2570 Vista Way, Oceanside, CA, 92054, US","2570 Vista Way, Oceanside, California, 92054",33.18328126973487,-117.33168490529359
+2114 N Tustin St,Orange,California (CA),92865,"2114 N Tustin St, Orange, CA, 92865, US","2114 N Tustin St, Orange, California, 92865",33.82445600061885,-117.83790302362195
+1170 Forest Ave,Pacific Grove,California (CA),93950,"1170 Forest Ave, Pacific Grove, CA, 93950, US","1170 Forest Ave, Pacific Grove, California, 93950",36.60550198825332,-121.92194100558848
+39507 10th St W,Palmdale,California (CA),93551,"39507 10th St W, Palmdale, CA, 93551, US","39507 10th St W, Palmdale, California, 93551",34.600495462732226,-118.14787958639528
+44250 Town Center Way,Palm Desert,California (CA),92260,"44250 Town Center Way, Palm Desert, CA, 92260, US","44250 Town Center Way, Palm Desert, California, 92260",33.72779601892819,-116.39692897740608
+855 El Camino Real,Palo Alto,California (CA),94301,"855 El Camino Real, Palo Alto, CA, 94301, US","855 El Camino Real, Palo Alto, California, 94301",37.43942398924354,-122.15864301759686
+467 N Rosemead Blvd,Pasadena,California (CA),91107,"467 N Rosemead Blvd, Pasadena, CA, 91107, US","467 N Rosemead Blvd, Pasadena, California, 91107",34.15374501801736,-118.07821302585221
+610 S Arroyo Pkwy,Pasadena,California (CA),91105,"610 S Arroyo Pkwy, Pasadena, CA, 91105, US","610 S Arroyo Pkwy, Pasadena, California, 91105",34.13515601034051,-118.1469250182374
+3035 E Huntington Dr,Pasadena,California (CA),91107,"3035 E Huntington Dr, Pasadena, CA, 91107, US","3035 Huntington Dr, Pasadena, California, 91107",34.127901012137485,-118.08946497649396
+345 S Lake Ave,Pasadena,California (CA),91101,"345 S Lake Ave, Pasadena, CA, 91101, US","345 S Lake Ave, Pasadena, California, 91101",34.140003013489775,-118.133139972637
+169 N McDowell Blvd,Petaluma,California (CA),94954,"169 N McDowell Blvd, Petaluma, CA, 94954, US","169 N McDowell Blvd, Petaluma, California, 94954",38.24837298982234,-122.6282369637062
+2742 Pinole Valley Rd,Pinole,California (CA),94564,"2742 Pinole Valley Rd, Pinole, CA, 94564, US","2742 Pinole Valley Rd, Pinole, California, 94564",37.99503000825412,-122.28643896164672
+3903 Santa Rita Road,Pleasanton,California (CA),94588,"3903 Santa Rita Road, Pleasanton, CA, 94588, US","3903 Santa Rita Rd, Pleasanton, California, 94588",37.69669401817801,-121.87677897600307
+6401 Haven Ave,Rancho Cucamonga,California (CA),91737,"6401 Haven Ave, Rancho Cucamonga, CA, 91737, US","6401 Haven Ave, Rancho Cucamonga, California, 91737",34.13770901231919,-117.57443801386954
+31176 Hawthorne Blvd,Rancho Palos Verdes,California (CA),90275,"31176 Hawthorne Blvd, Rancho Palos Verdes, CA, 90275, US","31176 Hawthorne Blvd, Rancho Palos Verdes, California, 90275",33.74914401385428,-118.40697498917905
+28901 S Western Ave,Rancho Palos Verdes,California (CA),90275,"28901 S Western Ave, Rancho Palos Verdes, CA, 90275, US","28901 S Western Ave, Rancho Palos Verdes, California, 90275",33.755894002390974,-118.31140997740971
+30652 Santa Margarita Pkwy,Rancho Santa Margarita,California (CA),92688,"30652 Santa Margarita Pkwy, Rancho Santa Margarita, CA, 92688, US","30652 Santa Margarita Pkwy, Rancho Santa Margarita, California, 92688",33.64244200924526,-117.59543199911501
+845 Browning St,Redding,California (CA),96003,"845 Browning St, Redding, CA, 96003, US","845 Browning St, Redding, California, 96003",40.59170601917046,-122.35712799353391
+552 Orange St,Redlands,California (CA),92374,"552 Orange St, Redlands, CA, 92374, US","552 Orange St, Redlands, California, 92374",34.060543996310116,-117.1810860266821
+1761 S Elena Ave,Redondo Bch.,California (CA),90277,"1761 S Elena Ave, Redondo Bch., CA, 90277, US","1761 S Elena Ave, Redondo Beach, California, 90277",33.81797407928747,-118.38558032316816
+6225 Riverside Plaza,Riverside,California (CA),92506,"6225 Riverside Plaza, Riverside, CA, 92506, US","6225 Riverside Ave, Riverside, California, 92506",33.95596299039012,-117.38847199705825
+5116 Commons Dr. #103,Rocklin,California (CA),95677,"5116 Commons Dr. #103, Rocklin, CA, 95677, US","5116 Commons Dr, Rocklin, California, 95677",38.80285298396035,-121.20917002726773
+1117 Roseville Square,Roseville,California (CA),95678,"1117 Roseville Square, Roseville, CA, 95678, US","1117 Roseville Sq, Roseville, California, 95678",38.74565998965207,-121.27615199483752
+5000 Folsom Blvd,Sacramento,California (CA),95819,"5000 Folsom Blvd, Sacramento, CA, 95819, US","5000 Folsom Blvd, Sacramento, California, 95819",38.560484805405366,-121.44474978625996
+2625 Marconi Ave,Sacramento,California (CA),95821,"2625 Marconi Ave, Sacramento, CA, 95821, US","2625 Marconi Ave, Sacramento, California, 95821",38.61844172636907,-121.4000783494674
+1482 El Camino Real,San Carlos,California (CA),94070,"1482 El Camino Real, San Carlos, CA, 94070, US","1482 El Camino Real, San Carlos, California, 94070",37.49664300936118,-122.24827196553736
+638 Camino de Los Mares,San Clemente,California (CA),92673,"638 Camino de Los Mares, San Clemente, CA, 92673, US","638 Camino de los Mares, San Clemente, California, 92673",33.457827993416146,-117.65139503295133
+13480 Highlands Place,San Diego,California (CA),92130,"13480 Highlands Place, San Diego, CA, 92130, US","13480 Highlands Pl, San Diego, California, 92130",32.96114499352926,-117.19134597908302
+1072 Camino Del Rio North,San Diego,California (CA),92108,"1072 Camino Del Rio North, San Diego, CA, 92108, US","1072 Camino del Rio N, San Diego, California, 92108",32.76546189625985,-117.15587738749761
+11955 Carmel Mountain Rd,San Diego,California (CA),92128,"11955 Carmel Mountain Rd, San Diego, CA, 92128, US","11955 Carmel Mountain Rd, San Diego, California, 92128",32.98199900099169,-117.07485797678812
+1090 University Avenue,San Diego,California (CA),92103,"1090 University Avenue, San Diego, CA, 92103, US","1090 University Ave, San Diego, California, 92103",32.749873005202915,-117.15379102954353
+1640 Garnet Ave,San Diego,California (CA),92109,"1640 Garnet Ave, San Diego, CA, 92109, US","1640 Garnet Ave, San Diego, California, 92109",32.80065799262405,-117.24060097580804
+2401 Truxtun Rd,San Diego,California (CA),92106,"2401 Truxtun Rd, San Diego, CA, 92106, US","2401 Truxtun Rd, San Diego, California, 92106",32.7357629932164,-117.21663602498202
+5140 College Ave,San Diego,California (CA),92115,"5140 College Ave, San Diego, CA, 92115, US","5140 College Ave, San Diego, California, 92115",32.7718920133877,-117.07032998887371
+9850 Hibert St,San Diego,California (CA),92131,"9850 Hibert St, San Diego, CA, 92131, US","9850 Hibert St, San Diego, California, 92131",32.91430201517153,-117.1151799602039
+856 W Arrow Hwy,San Dimas,California (CA),91773,"856 W Arrow Hwy, San Dimas, CA, 91773, US","856 W Arrow Hwy, San Dimas, California, 91773",34.10363301360218,-117.82221604037201
+3 Masonic Ave,San Francisco,California (CA),94118,"3 Masonic Ave, San Francisco, CA, 94118, US","3 Masonic Ave, San Francisco, California, 94118",37.783388000812096,-122.44784600215398
+555 9th St,San Francisco,California (CA),94103,"555 9th St, San Francisco, CA, 94103, US","555 9th St, San Francisco, California, 94103",37.771014006701776,-122.4073260381852
+1095 Hyde St,San Francisco,California (CA),94109,"1095 Hyde St, San Francisco, CA, 94109, US","1095 Hyde St, San Francisco, California, 94109",37.790610016226125,-122.41797901802602
+401 Bay St,San Francisco,California (CA),94133,"401 Bay St, San Francisco, CA, 94133, US","401 Bay St, San Francisco, California, 94133",37.80538001926867,-122.41435996369196
+10 4th Street,San Francisco,California (CA),94103,"10 4th Street, San Francisco, CA, 94103, US","10 4th St, San Francisco, California, 94103",37.78511002090997,-122.4057560239014
+265 Winston Dr,San Francisco,California (CA),94132,"265 Winston Dr, San Francisco, CA, 94132, US","265 Winston Dr, San Francisco, California, 94132",37.72660098398411,-122.47662803273491
+7250 Bollinger Rd,San Jose,California (CA),95129,"7250 Bollinger Rd, San Jose, CA, 95129, US","7250 Bollinger Rd, San Jose, California, 95129",37.31177799744148,-122.03093499971132
+635 Coleman Ave,San Jose,California (CA),95110,"635 Coleman Ave, San Jose, CA, 95110, US","635 Coleman Ave, San Jose, California, 95110",37.34099601271609,-121.90938600427909
+5353 Almaden Expressway #J-38,San Jose,California (CA),95118,"5353 Almaden Expressway #J-38, San Jose, CA, 95118, US","5353 Almaden Expy, San Jose, California, 95118",37.25328899326422,-121.87791899865397
+5269 Prospect,San Jose,California (CA),95129,"5269 Prospect, San Jose, CA, 95129, US","5269 Prospect Rd, San Jose, California, 95129",37.29395098858231,-121.99475099425518
+32151 Camino Capistrano,San Juan Capistrano,California (CA),92675,"32151 Camino Capistrano, San Juan Capistrano, CA, 92675, US","32151 Camino Capistrano, San Juan Capistrano, California, 92675",33.49586201063164,-117.6635249879507
+3977 Higuera Street,San Luis Obispo,California (CA),93401,"3977 Higuera Street, San Luis Obispo, CA, 93401, US","3977 S Higuera St, San Luis Obispo, California, 93401",35.24501998687397,-120.67327698724031
+1820-22 S Grant Street,San Mateo,California (CA),94402,"1820-22 S Grant Street, San Mateo, CA, 94402, US","1820 S Grant St, San Mateo, California, 94402",37.554564013869765,-122.30261402311857
+45 W Hillsdale Blvd,San Mateo,California (CA),94403,"45 W Hillsdale Blvd, San Mateo, CA, 94403, US","45 W Hillsdale Blvd, San Mateo, California, 94403",37.5353420048651,-122.29837101991212
+337 3rd St,San Rafael,California (CA),94901,"337 3rd St, San Rafael, CA, 94901, US","337 3rd St, San Rafael, California, 94901",37.96954898069126,-122.51634903369302
+300 Market Place,San Ramon,California (CA),94583,"300 Market Place, San Ramon, CA, 94583, US","300 Market Pl, San Ramon, California, 94583",37.76348959162386,-121.94983721472968
+3329 S Bristol St,Santa Ana,California (CA),92704,"3329 S Bristol St, Santa Ana, CA, 92704, US","3329 S Bristol St, Santa Ana, California, 92704",33.70096299038313,-117.8848170386091
+3025 De La Vina St,Santa Barbara,California (CA),93105,"3025 De La Vina St, Santa Barbara, CA, 93105, US","3025 De la Vina St, Santa Barbara, California, 93105",34.43890599740618,-119.72893900225355
+222 North Milpas Street,Santa Barbara,California (CA),93103,"222 North Milpas Street, Santa Barbara, CA, 93103, US","222 N Milpas St, Santa Barbara, California, 93103",34.42417585719662,-119.68229956743696
+26517 Bouquet Canyon Rd,Santa Clarita,California (CA),91350,"26517 Bouquet Canyon Rd, Santa Clarita, CA, 91350, US","26517 Bouquet Canyon Rd, Santa Clarita, California, 91350",34.42816663409725,-118.53662778667311
+700 Front St,Santa Cruz,California (CA),95060,"700 Front St, Santa Cruz, CA, 95060, US","700 Front St, Santa Cruz, California, 95060",36.974551988288084,-122.02430198063342
+1303 S Bradley Rd,Santa Maria,California (CA),93454,"1303 S Bradley Rd, Santa Maria, CA, 93454, US","1303 S Bradley Rd, Santa Maria, California, 93454",34.937701991264575,-120.42129702885696
+500 S. Broadway,Santa Monica,California (CA),90401,"500 S. Broadway, Santa Monica, CA, 90401, US","500 Broadway, Santa Monica, California, 90401",34.015757014982285,-118.49200797197037
+3212 Pico Blvd,Santa Monica,California (CA),90405,"3212 Pico Blvd, Santa Monica, CA, 90405, US","3212 Pico Blvd, Santa Monica, California, 90405",34.026334012870834,-118.45584299343444
+2300 Wilshire Blvd #101,Santa Monica,California (CA),90403,"2300 Wilshire Blvd #101, Santa Monica, CA, 90403, US","2300 Wilshire Blvd, Ste 101, Santa Monica, California, 90403",34.033366010539865,-118.48020600084226
+2100 Santa Rosa Ave,Santa Rosa,California (CA),95407,"2100 Santa Rosa Ave, Santa Rosa, CA, 95407, US","2100 Santa Rosa Ave, Santa Rosa, California, 95407",38.41748945341328,-122.71212673872343
+3225 Cleveland Ave,Santa Rosa,California (CA),95403,"3225 Cleveland Ave, Santa Rosa, CA, 95403, US","3225 Cleveland Ave, Santa Rosa, California, 95403",38.47359087247102,-122.73217717312843
+14119 Riverside Dr,Sherman Oaks,California (CA),91423,"14119 Riverside Dr, Sherman Oaks, CA, 91423, US","14119 Riverside Dr, Sherman Oaks, California, 91423",34.15797901067789,-118.44082295822018
+2975-A Cochran St,Simi Valley,California (CA),93065,"2975-A Cochran St, Simi Valley, CA, 93065, US","2975 Cochran St, Simi Valley, California, 93065",34.28107798764532,-118.738493006089
+301 MC Lellan Dr,South San Francisco,California (CA),94080,"301 MC Lellan Dr, South San Francisco, CA, 94080, US","301 Mc Lellan Dr, South San Francisco, California, 94080",37.664932011470626,-122.44614296706679
+613 Mission St,S. Pasadena,California (CA),91030,"613 Mission St, S. Pasadena, CA, 91030, US","613 Mission St, South Pasadena, California, 91030",34.11529400111888,-118.16292799923706
+6535 Pacific Ave,Stockton,California (CA),95207,"6535 Pacific Ave, Stockton, CA, 95207, US","6535 Pacific Ave, Stockton, California, 95207",38.00952264878113,-121.32015177876733
+11976 Ventura Blvd,Studio City,California (CA),91604,"11976 Ventura Blvd, Studio City, CA, 91604, US","11976 Ventura Blvd, Studio City, California, 91604",34.14287599462219,-118.39331298991726
+316 West El Camino Real,Sunnyvale,California (CA),94087,"316 West El Camino Real, Sunnyvale, CA, 94087, US","316 W El Camino Real, Sunnyvale, California, 94087",37.3681659937688,-122.03610101809544
+40665 Winchester Rd,Temecula,California (CA),92591,"40665 Winchester Rd, Temecula, CA, 92591, US","40665 Winchester Rd, Temecula, California, 92591",33.528870993074435,-117.15610502155317
+1111 Rossi Road,Templeton,California (CA),93465,"1111 Rossi Road, Templeton, CA, 93465, US","1111 Rossi Rd, Templeton, California, 93465",35.54194601510741,-120.71517803739532
+125 N Reino Road,Thousand Oaks,California (CA),91320,"125 N Reino Road, Thousand Oaks, CA, 91320, US","125 N Reino Rd, Newbury Park, California, 91320",34.1799349869508,-118.95362997378857
+451 Avenida De Los Arboles,Thousand Oaks,California (CA),91360,"451 Avenida De Los Arboles, Thousand Oaks, CA, 91360, US","451 E Avenida de los Arboles, Thousand Oaks, California, 91360",34.218794998814715,-118.86917198955508
+10130 Riverside Dr,Toluca Lake,California (CA),91602,"10130 Riverside Dr, Toluca Lake, CA, 91602, US","10130 Riverside Dr, Toluca Lake, California, 91602",34.15190699237954,-118.35191896108535
+19720 Hawthorne Blvd,Torrance,California (CA),90503,"19720 Hawthorne Blvd, Torrance, CA, 90503, US","19720 Hawthorne Blvd, Torrance, California, 90503",33.852270005202044,-118.35325696428924
+2545 Pacific Coast Hwy,Torrance,California (CA),90505,"2545 Pacific Coast Hwy, Torrance, CA, 90505, US","2545 Pacific Coast Hwy, Torrance, California, 90505",33.79064298411396,-118.32986198287917
+1198 Irvine Blvd.,Tustin,California (CA),92780,"1198 Irvine Blvd., Tustin, CA, 92780, US","1198 Irvine Blvd, Tustin, California, 92780",33.74782431037153,-117.8089724292744
+1795 S. Victoria Ave,Ventura,California (CA),93003,"1795 S. Victoria Ave, Ventura, CA, 93003, US","1795 S Victoria Ave, Ventura, California, 93003",34.25726198323875,-119.2117859698887
+103 S Mills Rd,Ventura,California (CA),93003,"103 S Mills Rd, Ventura, CA, 93003, US","103 S Mills Rd, Ventura, California, 93003",34.271672989368284,-119.24920597078707
+1372 S California Blvd,Walnut Creek,California (CA),94596,"1372 S California Blvd, Walnut Creek, CA, 94596, US","1372 S California Blvd, Walnut Creek, California, 94596",37.89309001429616,-122.06049202105984
+8645 S Sepulveda,Westchester,California (CA),90045,"8645 S Sepulveda, Westchester, CA, 90045, US","8645 S Sepulveda Blvd, Los Angeles, California, 90045",33.958626004847986,-118.39667899459445
+6751 Fallbrook Ave,West Hills,California (CA),91307,"6751 Fallbrook Ave, West Hills, CA, 91307, US","6751 Fallbrook Ave, West Hills, California, 91307",34.192961009309144,-118.62581600371087
+8611 Santa Monica Blvd,West Hollywood,California (CA),90069,"8611 Santa Monica Blvd, West Hollywood, CA, 90069, US","8611 Santa Monica Blvd, West Hollywood, California, 90069",34.08807201035697,-118.37981896399512
+7310 Santa Monica Blvd,West Hollywood,California (CA),90046,"7310 Santa Monica Blvd, West Hollywood, CA, 90046, US","7310 Santa Monica Blvd, West Hollywood, California, 90046",34.090022982140084,-118.34926198159775
+3835 E Thousand Oaks Blvd,Westlake Village,California (CA),91362,"3835 E Thousand Oaks Blvd, Westlake Village, CA, 91362, US","3835 E Thousand Oaks Blvd, Westlake Village, California, 91362",34.163448998780666,-118.82469199543107
+15025 E Whittier Blvd,Whittier,California (CA),90603,"15025 E Whittier Blvd, Whittier, CA, 90603, US","15025E Whittier Blvd, Whittier, California, 90603",33.94928097908817,-118.00542298611506
+21055 Ventura Blvd,Woodland Hills,California (CA),91364,"21055 Ventura Blvd, Woodland Hills, CA, 91364, US","21055 Ventura Blvd, Woodland Hills, California, 91364",34.167244995090755,-118.59234597468392
+19655 Yorba Linda Blvd,Yorba Linda,California (CA),92886,"19655 Yorba Linda Blvd, Yorba Linda, CA, 92886, US","19655 Yorba Linda Blvd, Yorba Linda, California, 92886",33.88974499138526,-117.79228300684704
+1906 28th St,Boulder,Colorado (CO),80301,"1906 28th St, Boulder, CO, 80301, US","1906 28th St, Boulder, Colorado, 80301",40.020262980843086,-105.25780503882925
+5342 N Nevada Ave,Colorado Springs,Colorado (CO),80918,"5342 N Nevada Ave, Colorado Springs, CO, 80918, US","5342 N Nevada Ave, Colorado Springs, Colorado, 80918",38.90724099655972,-104.81727400087624
+5338 N Nevada Avenue,Colorado Springs,Colorado (CO),80918,"5338 N Nevada Avenue, Colorado Springs, CO, 80918, US","5338 N Nevada Ave, Colorado Springs, Colorado, 80918",38.9051313514184,-104.81719368938393
+661 Logan Street,Denver,Colorado (CO),80203,"661 Logan Street, Denver, CO, 80203, US","661 N Logan St, Denver, Colorado, 80203",39.72693899168024,-104.98270997078284
+790 N Colorado Blvd,Denver,Colorado (CO),80206,"790 N Colorado Blvd, Denver, CO, 80206, US","790 Colorado Blvd, Denver, Colorado, 80206",39.72882299205699,-104.94028798534548
+750 N Colorado Blvd,Denver,Colorado (CO),80206,"750 N Colorado Blvd, Denver, CO, 80206, US","750 Colorado Blvd, Denver, Colorado, 80206",39.72882299205699,-104.94028798534548
+"3500 S College Ave, Ste 110",Fort Collins,Colorado (CO),80525,"3500 S College Ave, Ste 110, Fort Collins, CO, 80525, US","3500 S College Ave, Ste 110, Fort Collins, Colorado, 80525",40.53929599027117,-105.07527602141504
+"5910 S University Blvd, Suite E1",Greenwood Village,Colorado (CO),80121,"5910 S University Blvd, Suite E1, Greenwood Village, CO, 80121, US","5910 S University Blvd, Ste E1, Greenwood Village, Colorado, 80121",39.60826800652234,-104.95818502500569
+8055 West Bowles Ave,Littleton,Colorado (CO),80123,"8055 West Bowles Ave, Littleton, CO, 80123, US","8055 W Bowles Ave, Littleton, Colorado, 80123",39.612175985058855,-105.08891497044308
+18374 Cottonwood Drive #150,Parker,Colorado (CO),80138,"18374 Cottonwood Drive #150, Parker, CO, 80138, US","18374 Cottonwood Dr, Parker, Colorado, 80138",39.558750009747534,-104.7772931866516
+113 Mill Plain Rd,Danbury,Connecticut (CT),06811,"113 Mill Plain Rd, Danbury, CT, 06811, US","113 Mill Plain Rd, Danbury, Connecticut, 06811",41.392689990528254,-73.52289702441678
+436 Boston Post Rd,Darien,Connecticut (CT),06820,"436 Boston Post Rd, Darien, CT, 06820, US","436 Boston Post Rd, Darien, Connecticut, 06820",41.08448622149599,-73.4626322448226
+2258 Black Rock Turnpike,Fairfield,Connecticut (CT),06825,"2258 Black Rock Turnpike, Fairfield, CT, 06825, US","2258 Black Rock Tpke, Fairfield, Connecticut, 06825",41.18305398206368,-73.25350097997743
+400 Hebron Ave,Glastonbury,Connecticut (CT),06033,"400 Hebron Ave, Glastonbury, CT, 06033, US","400 Hebron Ave, Glastonbury, Connecticut, 06033",41.713638731145,-72.59957057273174
+1510 Pleasant Valley Road,Manchester,Connecticut (CT),06042,"1510 Pleasant Valley Road, Manchester, CT, 06042, US","1510 Pleasant Valley Rd, Manchester, Connecticut, 06042",41.80636800909713,-72.55962599653733
+560 Boston Post Rd,Orange,Connecticut (CT),06477,"560 Boston Post Rd, Orange, CT, 06477, US","560 Boston Post Rd, Orange, Connecticut, 06477",41.25104898645125,-73.01923399466054
+1041 High Ridge Rd,Stamford,Connecticut (CT),06905,"1041 High Ridge Rd, Stamford, CT, 06905, US","1041 High Ridge Rd, Stamford, Connecticut, 06905",41.10689797955885,-73.54735701044433
+1489 New Britain Ave,West Hartford,Connecticut (CT),06110,"1489 New Britain Ave, West Hartford, CT, 06110, US","1489 New Britain Ave, West Hartford, Connecticut, 06110",41.722908016165206,-72.75936197152332
+400 Post Road E,Westport,Connecticut (CT),06880,"400 Post Road E, Westport, CT, 06880, US","400 Post Rd E, Westport, Connecticut, 06880",41.14010200888853,-73.35211197536071
+2101 Wisconsin Ave NW Suite A,Washington,District Of Columbia (DC),20007,"2101 Wisconsin Ave NW Suite A, Washington, DC, 20007, US","2101 Wisconsin Ave NW, Washington, District of Columbia, 20007",38.917312984781944,-77.0686882441252
+1914 14th St NW,Washington,District Of Columbia (DC),20009,"1914 14th St NW, Washington, DC, 20009, US","1914 14th St NW, Washington, District of Columbia, 20009",38.91610087776374,-77.0322456569561
+1101 25th Street NW,Washington,District Of Columbia (DC),20037,"1101 25th Street NW, Washington, DC, 20037, US","1101 25th St NW, Washington, District of Columbia, 20037",38.904198952440254,-77.05301450428227
+750 Pennsylvania Ave SE,Washington,District Of Columbia (DC),20003,"750 Pennsylvania Ave SE, Washington, DC, 20003, US","750 Pennsylvania Ave SE, Washington, District of Columbia, 20003",38.884760816062226,-76.99547516973479
+350 Florida Ave. NE,Washington,District Of Columbia (DC),20002,"350 Florida Ave. NE, Washington, DC, 20002, US","350 Florida Ave NE, Washington, District of Columbia, 20002",38.907766206612706,-77.0010648095054
+2500 Fashion Center Blvd.,Newark,Delaware (DE),19702,"2500 Fashion Center Blvd., Newark, DE, 19702, US","2500 Fashion Center Blvd, Newark, Delaware, 19702",39.672893988747575,-75.6472870314714
+5605 Concord Pike,Wilmington,Delaware (DE),19803,"5605 Concord Pike, Wilmington, DE, 19803, US","5605 Concord Pike, Wilmington, Delaware, 19803",39.83370800960515,-75.54101103709127
+855 S Federal Hwy,Boca Raton,Florida (FL),33432,"855 S Federal Hwy, Boca Raton, FL, 33432, US","855 S Federal Hwy, Boca Raton, Florida, 33432",26.342150013121852,-80.08722196337172
+211 S. Dixie Highway,Coral Gables,Florida (FL),33133,"211 S. Dixie Highway, Coral Gables, FL, 33133, US","211 S Dixie Hwy, Miami, Florida, 33133",25.72927307764823,-80.25816131771577
+2796 N. University Drive,Coral Springs,Florida (FL),33065,"2796 N. University Drive, Coral Springs, FL, 33065, US","2796 N University Dr, Coral Springs, Florida, 33065",26.265007783849548,-80.25021191074777
+2296 S University Dr,Davie,Florida (FL),33324,"2296 S University Dr, Davie, FL, 33324, US","2296 S University Dr, Fort Lauderdale, Florida, 33324",26.092729992742058,-80.2511162383834
+1851 S Federal Highway #500,Delray Beach,Florida (FL),33483,"1851 S Federal Highway #500, Delray Beach, FL, 33483, US","1851 S Federal Hwy, Unit 500, Delray Beach, Florida, 33483",26.439103990066386,-80.07024701687985
+1560 N Federal Hwy,Fort Lauderdale,Florida (FL),33304,"1560 N Federal Hwy, Fort Lauderdale, FL, 33304, US","1560 N Federal Hwy, Fort Lauderdale, Florida, 33304",26.14808301262002,-80.11896900838192
+4983 S. Cleveland Avenue,Fort Myers,Florida (FL),33907,"4983 S. Cleveland Avenue, Fort Myers, FL, 33907, US","4983 S Cleveland Ave, Fort Myers, Florida, 33907",26.587243064580136,-81.86984925617922
+3724 SW Archer Rd,Gainesville,Florida (FL),32608,"3724 SW Archer Rd, Gainesville, FL, 32608, US","3724 SW Archer Rd, Gainesville, Florida, 32608",29.62310397979948,-82.37977801001621
+11112 San Jose Blvd,Jacksonville,Florida (FL),32223,"11112 San Jose Blvd, Jacksonville, FL, 32223, US","11112 San Jose Blvd, Jacksonville, Florida, 32223",30.174137000075604,-81.63004803547172
+4180 S 3rd St,Jacksonville Beach,Florida (FL),32250,"4180 S 3rd St, Jacksonville Beach, FL, 32250, US","4180 3rd St S, Jacksonville Beach, Florida, 32250",30.25716432467016,-81.38817922461969
+3191 NE 1st Ave,Miami,Florida (FL),33137,"3191 NE 1st Ave, Miami, FL, 33137, US","3191 NE 1st Ave, Miami, Florida, 33137",25.806180991142142,-80.19265398392112
+9205 S Dixie Hwy,Miami,Florida (FL),33156,"9205 S Dixie Hwy, Miami, FL, 33156, US","9205 S Dixie Hwy, Pinecrest, Florida, 33156",25.68433498297088,-80.31252601198504
+1683 West Ave,Miami Beach,Florida (FL),33139,"1683 West Ave, Miami Beach, FL, 33139, US","1683 West Ave, Miami Beach, Florida, 33139",25.79179098168005,-80.14211898676218
+10600 Tamiami Trail N,Naples,Florida (FL),34108,"10600 Tamiami Trail N, Naples, FL, 34108, US","10600 Tamiami Trl N, Naples, Florida, 34108",26.26793999516775,-81.80052102627256
+8323 Sand Lake Rd,Orlando,Florida (FL),32819,"8323 Sand Lake Rd, Orlando, FL, 32819, US","8323 W Sand Lake Rd, Orlando, Florida, 32819",28.450656020292385,-81.496572010916
+2560 PGA Blvd,Palm Beach Gardens,Florida (FL),33410,"2560 PGA Blvd, Palm Beach Gardens, FL, 33410, US","2560 Pga Blvd, Palm Beach Gardens, Florida, 33410",26.843747993392753,-80.07416798736628
+11960 Pines Blvd,Pembroke Pines,Florida (FL),33026,"11960 Pines Blvd, Pembroke Pines, FL, 33026, US","11960 Pines Blvd, Pembroke Pines, Florida, 33026",26.00596901774685,-80.3099940066738
+4101 S Tamiami Trail,Sarasota,Florida (FL),34231,"4101 S Tamiami Trail, Sarasota, FL, 34231, US","4101 S Tamiami Trl, Sarasota, Florida, 34231",27.294722709673913,-82.53052551539777
+2742 4th St N,St. Petersburg,Florida (FL),33704,"2742 4th St N, St. Petersburg, FL, 33704, US","2742 4th St N, Saint Petersburg, Florida, 33704",27.797367008308584,-82.63892600435713
+3425 Thomasville Rd,Tallahassee,Florida (FL),32309,"3425 Thomasville Rd, Tallahassee, FL, 32309, US","3425 Thomasville Rd, Tallahassee, Florida, 32309",30.504066017691073,-84.25065400276829
+3808 W Swann Ave,Tampa,Florida (FL),33609,"3808 W Swann Ave, Tampa, FL, 33609, US","3808 W Swann Ave, Tampa, Florida, 33609",27.937267007277,-82.50634600525086
+2877 South State Rd 7,Wellington,Florida (FL),33414,"2877 South State Rd 7, Wellington, FL, 33414, US","2877 S State Road 7, Wellington, Florida, 33414",26.63686539821181,-80.20572095187647
+131 Orlando Ave.,Winter Park,Florida (FL),32789,"131 Orlando Ave., Winter Park, FL, 32789, US","131 N Orlando Ave, Winter Park, Florida, 32789",28.598310997988236,-81.36589503910668
+1850 Epps Bridge Pkwy,Athens,Georgia (GA),30606,"1850 Epps Bridge Pkwy, Athens, GA, 30606, US","1850 Epps Bridge Pkwy, Athens, Georgia, 30606",33.91579401861681,-83.44326097678545
+931 Monroe Dr,Atlanta,Georgia (GA),30308,"931 Monroe Dr, Atlanta, GA, 30308, US","931 Monroe Dr NE, Atlanta, Georgia, 30308",33.77985501372248,-84.36763502860798
+3183 Peachtree Rd,Atlanta,Georgia (GA),30305,"3183 Peachtree Rd, Atlanta, GA, 30305, US","3183 Peachtree Rd NE, Atlanta, Georgia, 30305",33.8409610157092,-84.37490096519464
+4250 Roswell Road,Marietta,Georgia (GA),30062,"4250 Roswell Road, Marietta, GA, 30062, US","4250 Roswell Rd, Marietta, Georgia, 30062",33.98365298471583,-84.42608597894483
+5185 Peachtree Pkwy,Norcross,Georgia (GA),30092,"5185 Peachtree Pkwy, Norcross, GA, 30092, US","5185 Peachtree Pkwy, Peachtree Corners, Georgia, 30092",33.97967510407143,-84.21648907486663
+635 W Crossville Rd,Roswell,Georgia (GA),30075,"635 W Crossville Rd, Roswell, GA, 30075, US","635 W Crossville Rd, Roswell, Georgia, 30075",34.0593909817093,-84.37967001664437
+6277 Roswell Road NE,Sandy Springs,Georgia (GA),30328,"6277 Roswell Road NE, Sandy Springs, GA, 30328, US","6277 Roswell Rd, Atlanta, Georgia, 30328",33.92594001904406,-84.37812196294689
+920 Ponseti Way,Coralville,Iowa (IA),52241,"920 Ponseti Way, Coralville, IA, 52241, US","920 Ponseti Way, Coralville, Iowa, 52241",41.683284832017165,-91.56468737477655
+6305 Mills Civic Pkwy,West Des Moines,Iowa (IA),50266,"6305 Mills Civic Pkwy, West Des Moines, IA, 50266, US","6305 Mills Civic Pkwy, West Des Moines, Iowa, 50266",41.56171199007039,-93.79329603807689
+300 S Capitol Blvd,Boise,Idaho (ID),83702,"300 S Capitol Blvd, Boise, ID, 83702, US","300 S Capitol Blvd, Boise, Idaho, 83702",43.612994995719276,-116.20375502677808
+2986 N. Eagle RD.,Meridian,Idaho (ID),83646,"2986 N. Eagle RD., Meridian, ID, 83646, US","2986 N Eagle Rd, Meridian, Idaho, 83646",43.6319043597355,-116.35237379761057
+1800 S Randall Rd,Algonquin,Illinois (IL),60102,"1800 S Randall Rd, Algonquin, IL, 60102, US","1800 S Randall Rd, Algonquin, Illinois, 60102",42.15274001571942,-88.33979396537868
+17 W Rand Rd,Arlington Heights,Illinois (IL),60004,"17 W Rand Rd, Arlington Heights, IL, 60004, US","17 W Rand Rd, Arlington Heights, Illinois, 60004",42.11348098335483,-87.9844339601623
+1942 W Fabyan Pkwy,Batavia,Illinois (IL),60510,"1942 W Fabyan Pkwy, Batavia, IL, 60510, US","1942 W Fabyan Pkwy, Batavia, Illinois, 60510",41.863733000058545,-88.33896901846815
+3745 N Lincoln Ave,Chicago,Illinois (IL),60613,"3745 N Lincoln Ave, Chicago, IL, 60613, US","3745 N Lincoln Ave, Chicago, Illinois, 60613",41.950021005212335,-87.67514399610234
+667 W Diversey Pkwy,Chicago,Illinois (IL),60614,"667 W Diversey Pkwy, Chicago, IL, 60614, US","667 W Diversey Pkwy, Chicago, Illinois, 60614",41.93243200049383,-87.64622098190999
+1840 N Clybourn Ave,Chicago,Illinois (IL),60614,"1840 N Clybourn Ave, Chicago, IL, 60614, US","1840 N Clybourn Ave, Chicago, Illinois, 60614",41.91440298776814,-87.65510999022756
+44 E Ontario St,Chicago,Illinois (IL),60611,"44 E Ontario St, Chicago, IL, 60611, US","44 E Ontario St, Chicago, Illinois, 60611",41.893596002782516,-87.62657002901032
+1147 S Wabash Ave,Chicago,Illinois (IL),60605,"1147 S Wabash Ave, Chicago, IL, 60605, US","1147 S Wabash Ave, Chicago, Illinois, 60605",41.86805701435918,-87.625347025518
+1528 E 55th Street,Chicago,Illinois (IL),60615,"1528 E 55th Street, Chicago, IL, 60615, US","1528 E 55th St, Chicago, Illinois, 60615",41.795807984562515,-87.58846899847894
+122 Ogden Ave,Downers Grove,Illinois (IL),60515,"122 Ogden Ave, Downers Grove, IL, 60515, US","122 Ogden Ave, Downers Grove, Illinois, 60515",41.81070300369092,-87.98917300439867
+1211 Chicago Avenue,Evanston,Illinois (IL),60202,"1211 Chicago Avenue, Evanston, IL, 60202, US","1211 Chicago Ave, Evanston, Illinois, 60202",42.03984298838296,-87.68007699757818
+680 Roosevelt Rd,Glen Ellyn,Illinois (IL),60137,"680 Roosevelt Rd, Glen Ellyn, IL, 60137, US","680 Roosevelt Rd, Glen Ellyn, Illinois, 60137",41.86053899203452,-88.05899802970653
+1407 Waukegan Rd,Glenview,Illinois (IL),60025,"1407 Waukegan Rd, Glenview, IL, 60025, US","1407 Waukegan Rd, Glenview, Illinois, 60025",42.08100500613497,-87.79715299038084
+25 N La Grange Rd,La Grange,Illinois (IL),60525,"25 N La Grange Rd, La Grange, IL, 60525, US","25 N La Grange Rd, La Grange, Illinois, 60525",41.81684601670915,-87.86933198937649
+735 W Route 22,Lake Zurich,Illinois (IL),60047,"735 W Route 22, Lake Zurich, IL, 60047, US","735 W IL Route 22, Lake Zurich, Illinois, 60047",42.18888227929776,-88.10895442408926
+1600 S Milwaukee Ave,Libertyville,Illinois (IL),60048,"1600 S Milwaukee Ave, Libertyville, IL, 60048, US","1600 S Milwaukee Ave, Libertyville, Illinois, 60048",42.25513003405888,-87.94684062150625
+44 W Gartner Rd,Naperville,Illinois (IL),60540,"44 W Gartner Rd, Naperville, IL, 60540, US","44 W Gartner Rd, Naperville, Illinois, 60540",41.754210987945186,-88.1406859625786
+127 Skokie Blvd,Northbrook,Illinois (IL),60062,"127 Skokie Blvd, Northbrook, IL, 60062, US","127 Skokie Blvd, Northbrook, Illinois, 60062",42.15023001290402,-87.79825596501969
+483 N Harlem Ave,Oak Park,Illinois (IL),60301,"483 N Harlem Ave, Oak Park, IL, 60301, US","483 N Harlem Ave, Oak Park, Illinois, 60301",41.89007099340208,-87.80472201658633
+14924 S La Grange Rd,Orland Park,Illinois (IL),60462,"14924 S La Grange Rd, Orland Park, IL, 60462, US","14924 S La Grange Rd, Orland Park, Illinois, 60462",41.61873499938227,-87.85539598569991
+190 N NW Highway,Park Ridge,Illinois (IL),60068,"190 N NW Highway, Park Ridge, IL, 60068, US","190 N Northwest Hwy, Park Ridge, Illinois, 60068",42.01260100678195,-87.83219898484283
+1426 E Golf Rd,Schaumburg,Illinois (IL),60173,"1426 E Golf Rd, Schaumburg, IL, 60173, US","1426 E Golf Rd, Schaumburg, Illinois, 60173",42.05059871002953,-88.04418851110253
+4110 W. Jefferson Blvd.,Fort Wayne,Indiana (IN),46804,"4110 W. Jefferson Blvd., Fort Wayne, IN, 46804, US","4110 W Jefferson Blvd, Fort Wayne, Indiana, 46804",41.0720679867417,-85.19658899176707
+5473 E 82nd St,Indianapolis,Indiana (IN),46250,"5473 E 82nd St, Indianapolis, IN, 46250, US","5473 E 82nd St, Indianapolis, Indiana, 46250",39.903895007401644,-86.07643803864552
+2902 W 86th St,Indianapolis,Indiana (IN),46268,"2902 W 86th St, Indianapolis, IN, 46268, US","2902 W 86th St, Indianapolis, Indiana, 46268",39.912531007971864,-86.21186503498436
+1140 East Howard,South Bend,Indiana (IN),46617,"1140 East Howard, South Bend, IN, 46617, US","1140 Howard St, South Bend, Indiana, 46617",41.687810011994,-86.2336159899056
+4201 W 119th St,Leawood,Kansas (KS),66209,"4201 W 119th St, Leawood, KS, 66209, US","4201 W 119th St, Leawood, Kansas, 66209",38.91246501771383,-94.63583295915082
+1800 N. Rock Road,Wichita,Kansas (KS),67206,"1800 N. Rock Road, Wichita, KS, 67206, US","1800 N Rock Rd, Wichita, Kansas, 67206",37.716274982186164,-97.24334899207733
+2785 Dixie Highway,Crestview Hills,Kentucky (KY),41017,"2785 Dixie Highway, Crestview Hills, KY, 41017, US","2785 Dixie Hwy, Ft Mitchell, Kentucky, 41017",39.02609198308832,-84.5770729727005
+2780 Dixie Highway,Crestview Hills,Kentucky (KY),41017,"2780 Dixie Highway, Crestview Hills, KY, 41017, US","2780 Dixie Hwy, Ft Mitchell, Kentucky, 41017",39.03030844604567,-84.57384866719721
+2320 Nicholasville Road,Lexington,Kentucky (KY),40503,"2320 Nicholasville Road, Lexington, KY, 40503, US","2320 Nicholasville Rd, Lexington, Kentucky, 40503",38.00518344115818,-84.51871470605718
+2326 Nicholasville Rd,Lexington,Kentucky (KY),40503,"2326 Nicholasville Rd, Lexington, KY, 40503, US","2326 Nicholasville Rd, Lexington, Kentucky, 40503",38.00494600925825,-84.51835204126236
+4600 Shelbyville Rd Ste 112,Louisville,Kentucky (KY),40207,"4600 Shelbyville Rd Ste 112, Louisville, KY, 40207, US","4600 Shelbyville Rd, Ste 112, Louisville, Kentucky, 40207",38.24948401108827,-85.63105496840134
+4600 Shelbyville Rd Ste 111,Louisville,Kentucky (KY),40207,"4600 Shelbyville Rd Ste 111, Louisville, KY, 40207, US","4600 Shelbyville Rd, Ste 111, Louisville, Kentucky, 40207",38.24948401108827,-85.63105496840134
+3535 Perkins Rd,Baton Rouge,Louisiana (LA),70808,"3535 Perkins Rd, Baton Rouge, LA, 70808, US","3535 Perkins Rd, Baton Rouge, Louisiana, 70808",30.422293008501782,-91.15233302635716
+2949 Veterans Blvd,Metairie,Louisiana (LA),70002,"2949 Veterans Blvd, Metairie, LA, 70002, US","2949 Veterans Blvd, Metairie, Louisiana, 70002",30.00330600874578,-90.15166578045327
+145 Great Rd,Acton,Massachusetts (MA),01720,"145 Great Rd, Acton, MA, 01720, US","145 Great Road, Acton, Massachusetts, 01720",42.482428766080375,-71.4145213139311
+199 North Harvard Street,Allston,Massachusetts (MA),02134,"199 North Harvard Street, Allston, MA, 02134, US","199 North Harvard Street, Allston, Massachusetts, 02134",42.3635023424232,-71.12969862815444
+1427 Massachusetts Ave,Arlington,Massachusetts (MA),02476,"1427 Massachusetts Ave, Arlington, MA, 02476, US","1427 Massachusetts Avenue, Arlington, Massachusetts, 02476",42.42534787972707,-71.18791530429755
+899 Boylston St,Boston,Massachusetts (MA),02115,"899 Boylston St, Boston, MA, 02115, US","899 Boylston Street, Boston, Massachusetts, 02115",42.3485173435642,-71.08412119144765
+44 Thomson Place,Boston,Massachusetts (MA),02210,"44 Thomson Place, Boston, MA, 02210, US","44 Thomson Place, Boston, Massachusetts, 02210",42.3517777362614,-71.04736294180498
+1317 Beacon St,Brookline,Massachusetts (MA),02446,"1317 Beacon St, Brookline, MA, 02446, US","1317 Beacon Street, Brookline, Massachusetts, 02446",42.34192258787431,-71.12050275836164
+51 Middlesex Turnpike,Burlington,Massachusetts (MA),01803,"51 Middlesex Turnpike, Burlington, MA, 01803, US","51 Middlesex Turnpike, Burlington, Massachusetts, 01803",42.4734436173334,-71.21074727327132
+748 Memorial Dr,Cambridge,Massachusetts (MA),02139,"748 Memorial Dr, Cambridge, MA, 02139, US","748 Memorial Drive, Cambridge, Massachusetts, 02139",42.35827350167477,-71.11422035429358
+211 Alewife Brook Pkwy,Cambridge,Massachusetts (MA),02138,"211 Alewife Brook Pkwy, Cambridge, MA, 02138, US","211 Alewife Brook Parkway, Cambridge, Massachusetts, 02138",42.390056505049614,-71.14361367707309
+350 Patriot Place,Foxborough,Massachusetts (MA),02035,"350 Patriot Place, Foxborough, MA, 02035, US","350 Patriot Place, Foxboro, Massachusetts, 02035",42.08628728151615,-71.27022618021361
+659 Worcester Rd,Framingham,Massachusetts (MA),01701,"659 Worcester Rd, Framingham, MA, 01701, US","659 Worcester Road, Framingham, Massachusetts, 01701",42.29916318892461,-71.42477665628529
+375 Russell St,Hadley,Massachusetts (MA),01035,"375 Russell St, Hadley, MA, 01035, US","375 Russell Street, Hadley, Massachusetts, 01035",42.35778571681948,-72.5493232964302
+1775 Washington St,Hanover,Massachusetts (MA),02339,"1775 Washington St, Hanover, MA, 02339, US","1775 Washington Street, Hanover, Massachusetts, 02339",42.14360592055303,-70.84312194531928
+5 Essington Drive,Hingham,Massachusetts (MA),02043,"5 Essington Drive, Hingham, MA, 02043, US","5 Essington Dr, Hingham, Massachusetts, 02043",42.24928483527039,-70.92525164078275
+655 Iyannough Road Rt 132,Hyannis,Massachusetts (MA),02601,"655 Iyannough Road Rt 132, Hyannis, MA, 02601, US","655 Iyannough Road, Hyannis, Massachusetts, 02601",41.66597435794117,-70.29237181427533
+958 Highland Ave,Needham,Massachusetts (MA),02494,"958 Highland Ave, Needham, MA, 02494, US","958 Highland Avenue, Needham Heights, Massachusetts, 02494",42.29272291171026,-71.23488380165533
+300 Andover St,Peabody,Massachusetts (MA),01960,"300 Andover St, Peabody, MA, 01960, US","300 Andover Street, Peabody, Massachusetts, 01960",42.54914297375322,-70.95705187458408
+358 Broadway,Saugus,Massachusetts (MA),01906,"358 Broadway, Saugus, MA, 01906, US","358 Broadway, Saugus, Massachusetts, 01906",42.483114741036246,-71.01828377275648
+77 Boston Turnpike,Shrewsbury,Massachusetts (MA),01545,"77 Boston Turnpike, Shrewsbury, MA, 01545, US","77 Boston Turnpike, Shrewsbury, Massachusetts, 01545",42.27539697302291,-71.75127751741152
+145 Middlesex Ave,Somerville,Massachusetts (MA),02145,"145 Middlesex Ave, Somerville, MA, 02145, US","145 Middlesex Avenue, Somerville, Massachusetts, 02145",42.394737630335015,-71.08276047328616
+1121 Washington St,West Newton,Massachusetts (MA),02465,"1121 Washington St, West Newton, MA, 02465, US","1121 Washington Street, West Newton, Massachusetts, 02465",42.34981423353301,-71.21941667572568
+160 F Jennifer Rd,Annapolis,Maryland (MD),21401,"160 F Jennifer Rd, Annapolis, MD, 21401, US","160 Jennifer Rd, Annapolis, Maryland, 21401",38.98901400574903,-76.54024998496298
+6831 Wisconsin Ave,Bethesda,Maryland (MD),20815,"6831 Wisconsin Ave, Bethesda, MD, 20815, US","6831 Wisconsin Ave, Chevy Chase, Maryland, 20815",38.97827800315724,-77.09061798504116
+7900 Wisconsin Ave,Bethesda,Maryland (MD),20814,"7900 Wisconsin Ave, Bethesda, MD, 20814, US","7900 Wisconsin Ave, Bethesda, Maryland, 20814",38.989678984037454,-77.0959059601165
+4429 Calvert Road,College Park,Maryland (MD),20740,"4429 Calvert Road, College Park, MD, 20740, US","4429 Calvert Rd, College Park, Maryland, 20740",38.97838788546744,-76.93777017297768
+6610 Marie Curie Dr,Elkridge,Maryland (MD),21075,"6610 Marie Curie Dr, Elkridge, MD, 21075, US","6610 Marie Curie Dr, Elkridge, Maryland, 21075",39.1879329966325,-76.79639398902486
+1809 Reisterstown Rd,Pikesville,Maryland (MD),21208,"1809 Reisterstown Rd, Pikesville, MD, 21208, US","1809 Reisterstown Rd, Pikesville, Maryland, 21208",39.38814598572819,-76.7360659952909
+10076 Darnestown Rd,Rockville,Maryland (MD),20850,"10076 Darnestown Rd, Rockville, MD, 20850, US","10076 Darnestown Rd, Rockville, Maryland, 20850",39.096646988343736,-77.20705502536477
+12268-H Rockville Pike,Rockville,Maryland (MD),20852,"12268-H Rockville Pike, Rockville, MD, 20852, US","12268 Rockville Pike, Rockville, Maryland, 20852",39.05710598875635,-77.12277297727893
+10741 Columbia Pike,Silver Spring,Maryland (MD),20901,"10741 Columbia Pike, Silver Spring, MD, 20901, US","10741 Columbia Pike, Silver Spring, Maryland, 20901",39.031162992599974,-77.00371499965141
+800 Kenilworth Drive,Towson,Maryland (MD),21204,"800 Kenilworth Drive, Towson, MD, 21204, US","800 Kenilworth Dr, Towson, Maryland, 21204",39.4117010195794,-76.61870904109381
+87 Marginal Way,Portland,Maine (ME),04101,"87 Marginal Way, Portland, ME, 04101, US","87 Marginal Way, Portland, Maine, 04101",43.66182523950087,-70.26454833814155
+2398 East Stadium Blvd,Ann Arbor,Michigan (MI),48104,"2398 East Stadium Blvd, Ann Arbor, MI, 48104, US","2398 E Stadium Blvd, Ann Arbor, Michigan, 48104",42.2583799912866,-83.71300797151076
+6536 Telegraph Rd,Bloomfield Hills,Michigan (MI),48301,"6536 Telegraph Rd, Bloomfield Hills, MI, 48301, US","6536 Telegraph Rd, Bloomfield Hills, Michigan, 48301",42.54334102037518,-83.28678098660278
+17028 Kercheval Ave,Grosse Pointe,Michigan (MI),48230,"17028 Kercheval Ave, Grosse Pointe, MI, 48230, US","17028 Kercheval Ave, Grosse Pointe, Michigan, 48230",42.3898070177016,-82.91612601974799
+5099 Century Ave,Kalamazoo,Michigan (MI),49006,"5099 Century Ave, Kalamazoo, MI, 49006, US","5099 Century Ave, Kalamazoo, Michigan, 49006",42.27012198989752,-85.64984501602586
+3684 28th St SE,Kentwood,Michigan (MI),49512,"3684 28th St SE, Kentwood, MI, 49512, US","3684 28th St SE, Grand Rapids, Michigan, 49512",42.9119769963026,-85.57665800935433
+18771 Traditions Drive,Northville,Michigan (MI),48167,"18771 Traditions Drive, Northville, MI, 48167, US","18771 Traditions Dr, Northville, Michigan, 48168",42.422159416403744,-83.43359104140256
+3044 Walton Blvd,Rochester Hills,Michigan (MI),48309,"3044 Walton Blvd, Rochester Hills, MI, 48309, US","3044 Walton Blvd, Rochester Hills, Michigan, 48309",42.68260701218742,-83.19651099070744
+27880 Woodward Ave,Royal Oak,Michigan (MI),48067,"27880 Woodward Ave, Royal Oak, MI, 48067, US","27880 Woodward Ave, Royal Oak, Michigan, 48067",42.495199014663314,-83.16354002019555
+4270 W 78th St,Bloomington,Minnesota (MN),55435,"4270 W 78th St, Bloomington, MN, 55435, US","4270 W 78th St, Minneapolis, Minnesota, 55435",44.85927297960001,-93.3327169964708
+2065 Cliff Road,Eagan,Minnesota (MN),55122,"2065 Cliff Road, Eagan, MN, 55122, US","2065 Cliff Rd, Saint Paul, Minnesota, 55122",44.79027730709222,-93.21108353563704
+12105 Elm Creek Blvd N,Maple Grove,Minnesota (MN),55369,"12105 Elm Creek Blvd N, Maple Grove, MN, 55369, US","12105 Elm Creek Blvd N, Maple Grove, Minnesota, 55369",45.092257994735746,-93.43461202151822
+721 Washington Ave S,Minneapolis,Minnesota (MN),55415,"721 Washington Ave S, Minneapolis, MN, 55415, US","721 Washington Ave S, Minneapolis, Minnesota, 55415",44.97748922196618,-93.25832880268453
+11220 Wayzata Blvd,Minnetonka,Minnesota (MN),55305,"11220 Wayzata Blvd, Minnetonka, MN, 55305, US","11220 Wayzata Blvd, Hopkins, Minnesota, 55305",44.97363801345864,-93.42315597153416
+1200 16th St SW,Rochester,Minnesota (MN),55902,"1200 16th St SW, Rochester, MN, 55902, US","1200 16th St SW, Rochester, Minnesota, 55902",44.00042298901846,-92.48132903710069
+1041 Red Fox Rd,Shoreview,Minnesota (MN),55126,"1041 Red Fox Rd, Shoreview, MN, 55126, US","1041 Red Fox Rd, Saint Paul, Minnesota, 55126",45.057936992988886,-93.14463496820285
+4500 Excelsior Blvd,St. Louis Park,Minnesota (MN),55416,"4500 Excelsior Blvd, St. Louis Park, MN, 55416, US","4500 Excelsior Blvd, Minneapolis, Minnesota, 55416",44.93448400634085,-93.33747598963672
+484 Lexington Pkwy S,St. Paul,Minnesota (MN),55105,"484 Lexington Pkwy S, St. Paul, MN, 55105, US","484 Lexington Pkwy S, Saint Paul, Minnesota, 55105",44.926677981823076,-93.1459279605867
+8960 Hudson Rd. Ste. 801,Woodbury,Minnesota (MN),55125,"8960 Hudson Rd. Ste. 801, Woodbury, MN, 55125, US","8960 Hudson Rd, Ste 801, Saint Paul, Minnesota, 55125",44.94578901442969,-92.92253800338253
+48 Brentwood Promenade Court,Brentwood,Missouri (MO),63144,"48 Brentwood Promenade Court, Brentwood, MO, 63144, US","48 Brentwood Promenade Ct, Saint Louis, Missouri, 63144",38.627580012487044,-90.34124098268396
+1679 Clarkson Rd,Chesterfield,Missouri (MO),63017,"1679 Clarkson Rd, Chesterfield, MO, 63017, US","1679 Clarkson Rd, Chesterfield, Missouri, 63017",38.645239006097086,-90.56622098692051
+11505 Olive Blvd,Creve Coeur,Missouri (MO),63141,"11505 Olive Blvd, Creve Coeur, MO, 63141, US","11505 Olive Blvd, Saint Louis, Missouri, 63141",38.671976983860134,-90.4364650186321
+13343 Manchester Rd,Des Peres,Missouri (MO),63131,"13343 Manchester Rd, Des Peres, MO, 63131, US","13343 Manchester Rd, Saint Louis, Missouri, 63131",38.601270014700134,-90.46706701184952
+8600 Ward Pkwy,Kansas City,Missouri (MO),64114,"8600 Ward Pkwy, Kansas City, MO, 64114, US","8600 Ward Pkwy, Kansas City, Missouri, 64114",38.97074900053943,-94.60680399770234
+120 Merrimon Ave,Asheville,North Carolina (NC),28801,"120 Merrimon Ave, Asheville, NC, 28801, US","120 Merrimon Ave, Asheville, North Carolina, 28801",35.60311601292487,-82.55358004130125
+1393 Kildaire Farm Rd,Cary,North Carolina (NC),27511,"1393 Kildaire Farm Rd, Cary, NC, 27511, US","1393 Kildaire Farm Rd, Cary, North Carolina, 27511",35.75970899116234,-78.7815999792803
+1800 E Franklin St,Chapel Hill,North Carolina (NC),27514,"1800 E Franklin St, Chapel Hill, NC, 27514, US","1800 E Franklin St, Chapel Hill, North Carolina, 27514",35.93510174003201,-79.02426814614994
+1133 Metropolitan Ave,Charlotte,North Carolina (NC),28204,"1133 Metropolitan Ave, Charlotte, NC, 28204, US","1133 Metropolitan Ave, Charlotte, North Carolina, 28204",35.21245998107477,-80.83502996751807
+1820 E Arbors Dr,Charlotte,North Carolina (NC),28262,"1820 E Arbors Dr, Charlotte, NC, 28262, US","1820 E Arbors Dr, Charlotte, North Carolina, 28262",35.33677701621167,-80.75461700593802
+6418 Rea Rd,Charlotte,North Carolina (NC),28277,"6418 Rea Rd, Charlotte, NC, 28277, US","6418 Rea Rd, Charlotte, North Carolina, 28277",35.078779018986395,-80.81786198579607
+3721 Battleground Ave.,Greensboro,North Carolina (NC),27410,"3721 Battleground Ave., Greensboro, NC, 27410, US","3721 Battleground Ave, Greensboro, North Carolina, 27410",36.13127301732604,-79.8578980378145
+951 Morrisville Parkway,Morrisville,North Carolina (NC),27560,"951 Morrisville Parkway, Morrisville, NC, 27560, US","951 Morrisville Pkwy, Morrisville, North Carolina, 27560",35.809415018097226,-78.81762799751834
+3000 Wake Forest Rd,Raleigh,North Carolina (NC),27609,"3000 Wake Forest Rd, Raleigh, NC, 27609, US","3000 Wake Forest Rd, Raleigh, North Carolina, 27609",35.823336018167126,-78.62038798565995
+1437 S College Rd,Wilmington,North Carolina (NC),28403,"1437 S College Rd, Wilmington, NC, 28403, US","1437 S College Rd, Wilmington, North Carolina, 28403",34.21078198319803,-77.88600996969548
+252 South Stratford Road,Winston Salem,North Carolina (NC),27103,"252 South Stratford Road, Winston Salem, NC, 27103, US","252 S Stratford Rd, Winston Salem, North Carolina, 27103",36.0917771838322,-80.28146499820772
+3120 Pine Lake Rd,Lincoln,Nebraska (NE),68516,"3120 Pine Lake Rd, Lincoln, NE, 68516, US","3120 Pine Lake Rd, Lincoln, Nebraska, 68516",40.742394994358705,-96.67459302426995
+10305 Pacific St,Omaha,Nebraska (NE),68114,"10305 Pacific St, Omaha, NE, 68114, US","10305 Pacific St, Omaha, Nebraska, 68114",41.24820798227947,-96.07390301119253
+2 Market Street,Bedford,New Hampshire (NH),03110,"2 Market Street, Bedford, NH, 03110, US","03110, Bedford, New Hampshire",42.95805450000006,-71.48555669999996
+262 Daniel Webster HWY,Nashua,New Hampshire (NH),03060,"262 Daniel Webster HWY, Nashua, NH, 03060, US","262 Daniel Webster Hwy, Nashua, New Hampshire, 03060",42.707406004288885,-71.43816398058001
+45 Gosling Rd,Portsmouth,New Hampshire (NH),03801,"45 Gosling Rd, Portsmouth, NH, 03801, US","45 Gosling Rd, Newington, New Hampshire, 03801",43.09461200288246,-70.79921602774375
+110 Brick Plaza,Brick,New Jersey (NJ),08723,"110 Brick Plaza, Brick, NJ, 08723, US","110 Brick Plz, Brick, New Jersey, 08723",40.059244819367514,-74.14028835251078
+315 Promenade Blvd,Bridgewater,New Jersey (NJ),08807,"315 Promenade Blvd, Bridgewater, NJ, 08807, US","315 Promenade Blvd, Bridgewater, New Jersey, 08807",40.56369916700313,-74.5558239394324
+775 Haddonfield Rd,Cherry Hill,New Jersey (NJ),08002,"775 Haddonfield Rd, Cherry Hill, NJ, 08002, US","775 Haddonfield Rd, Cherry Hill, New Jersey, 08002",39.929682046723734,-75.03201520138519
+259 Allwood Road,Clifton,New Jersey (NJ),07012,"259 Allwood Road, Clifton, NJ, 07012, US","259 Allwood Rd, Clifton, New Jersey, 07012",40.83740933289232,-74.15185335543319
+3056 State Route 10 West,Denville,New Jersey (NJ),07834,"3056 State Route 10 West, Denville, NJ, 07834, US","3056 RT-10 W, Denville, New Jersey, 07834",40.86551275610945,-74.50674715018219
+715 River Rd,Edgewater,New Jersey (NJ),07020,"715 River Rd, Edgewater, NJ, 07020, US","715 River Rd, Edgewater, New Jersey, 07020",40.819313024550375,-73.97830674378285
+176 Columbia Turnpike,Florham Park,New Jersey (NJ),07932,"176 Columbia Turnpike, Florham Park, NJ, 07932, US","176 Columbia Tpke, Florham Park, New Jersey, 07932",40.789217981877385,-74.39137903712289
+4331 Route 9 Unit 3,Freehold,New Jersey (NJ),07728,"4331 Route 9 Unit 3, Freehold, NJ, 07728, US","4331 US Highway 9, Freehold, New Jersey, 07728",40.28166801216159,-74.29249202566803
+1350 Willow Ave.,Hoboken,New Jersey (NJ),07030,"1350 Willow Ave., Hoboken, NJ, 07030, US","1350 Willow Ave, Hoboken, New Jersey, 07030",40.75353968739918,-74.02982201621322
+300 P Route 73 S,Marlton,New Jersey (NJ),08053,"300 P Route 73 S, Marlton, NJ, 08053, US","300 Route 73 S, Marlton, New Jersey, 08053",39.89044599229956,-74.92402802916432
+187 Millburn Ave,Millburn,New Jersey (NJ),07041,"187 Millburn Ave, Millburn, NJ, 07041, US","187 Millburn Ave, Millburn, New Jersey, 07041",40.72319000061751,-74.29616296398275
+869 US-1,North Brunswick,New Jersey (NJ),08902,"869 US-1, North Brunswick, NJ, 08902, US","869 US Highway 1, North Brunswick, New Jersey, 08902",40.462766993075036,-74.45927303957718
+404 Rt 17 N,Paramus,New Jersey (NJ),07652,"404 Rt 17 N, Paramus, NJ, 07652, US","404 N State Rt 17, Paramus, New Jersey, 07652",40.948366015659815,-74.07062698810856
+3528 Brunswick Pike,Princeton,New Jersey (NJ),08540,"3528 Brunswick Pike, Princeton, NJ, 08540, US","3528 Brunswick Pike, Princeton, New Jersey, 08540",40.31037977695329,-74.66344750912809
+1031 Broad St,Shrewsbury,New Jersey (NJ),07702,"1031 Broad St, Shrewsbury, NJ, 07702, US","1031 Broad St, Shrewsbury, New Jersey, 07702",40.31668898664262,-74.06081395878495
+910 Hamburg Turnpike,Wayne,New Jersey (NJ),07470,"910 Hamburg Turnpike, Wayne, NJ, 07470, US","910 Hamburg Tpke, Wayne, New Jersey, 07470",40.95934899102866,-74.2304370246038
+155 Elm St,Westfield,New Jersey (NJ),07090,"155 Elm St, Westfield, NJ, 07090, US","155 Elm St, Westfield, New Jersey, 07090",40.65222398873988,-74.3499919652706
+20 Irvington St,Westwood,New Jersey (NJ),07675,"20 Irvington St, Westwood, NJ, 07675, US","20 Irvington St, Westwood, New Jersey, 07675",40.99322801502106,-74.03597796058095
+8928 Holly Ave NE,Albuquerque,New Mexico (NM),87122,"8928 Holly Ave NE, Albuquerque, NM, 87122, US","8928 Holly Ave NE, Albuquerque, New Mexico, 87122",35.175236996810526,-106.54272900267631
+2200 Uptown Loop NE,Albuquerque,New Mexico (NM),87110,"2200 Uptown Loop NE, Albuquerque, NM, 87110, US","2200 Uptown Loop NE, Albuquerque, New Mexico, 87110",35.10221901121653,-106.56545996971683
+530 W Cordova Rd,Santa Fe,New Mexico (NM),87505,"530 W Cordova Rd, Santa Fe, NM, 87505, US","530 W Cordova Rd, Santa Fe, New Mexico, 87505",35.67270898524332,-105.95200398282707
+3790 US Hwy 395 S,Carson City,Nevada (NV),89705,"3790 US Hwy 395 S, Carson City, NV, 89705, US","3790 US Highway 395 S, Carson City, Nevada, 89705",39.11304898984406,-119.77614303109056
+10345 S Eastern Ave,Henderson,Nevada (NV),89052,"10345 S Eastern Ave, Henderson, NV, 89052, US","10345 S Eastern Ave, Henderson, Nevada, 89052",36.00086799636523,-115.10939296107246
+2716 N Green Valley Pkwy,Henderson,Nevada (NV),89014,"2716 N Green Valley Pkwy, Henderson, NV, 89014, US","2716 N Green Valley Pkwy, Henderson, Nevada, 89014",36.06967001039054,-115.08082802178377
+5639 Centennial Ctr Blvd,Las Vegas,Nevada (NV),89149,"5639 Centennial Ctr Blvd, Las Vegas, NV, 89149, US","5639 Centennial Center Blvd, Las Vegas, Nevada, 89149",36.26367480220228,-115.25682775460726
+2315 Summa Dr Ste 100,Las Vegas,Nevada (NV),89135,"2315 Summa Dr Ste 100, Las Vegas, NV, 89135, US","2315 Summa Dr, Ste 100, Las Vegas, Nevada, 89135",36.14632901090492,-115.33556797324474
+7575 W Washington,Las Vegas,Nevada (NV),89128,"7575 W Washington, Las Vegas, NV, 89128, US","7575 W Washington Ave, Las Vegas, Nevada, 89128",36.18058899239665,-115.25818096253005
+5035 S McCarran Blvd,Reno,Nevada (NV),89502,"5035 S McCarran Blvd, Reno, NV, 89502, US","5035 S McCarran Blvd, Reno, Nevada, 89502",39.47729201031723,-119.78367500928402
+130 Court St,Brooklyn,New York (NY),11201,"130 Court St, Brooklyn, NY, 11201, US","130 Court St, Brooklyn, New York, 11201",40.68951469878178,-73.99262298550113
+445 Gold St,Brooklyn,New York (NY),11201,"445 Gold St, Brooklyn, NY, 11201, US","445 Gold St, Brooklyn, New York, 11201",40.69120665055011,-73.98337796927073
+200 Kent Ave,Brooklyn,New York (NY),11249,"200 Kent Ave, Brooklyn, NY, 11249, US","200 Kent Ave, Brooklyn, New York, 11249",40.71789737358591,-73.96450069451915
+1565 Niagara Falls Blvd,Buffalo,New York (NY),14228,"1565 Niagara Falls Blvd, Buffalo, NY, 14228, US","1565 Niagara Falls Blvd, Buffalo, New York, 14228",42.99846993898902,-78.82226285469824
+79 Wolf Rd,Colonie,New York (NY),12205,"79 Wolf Rd, Colonie, NY, 12205, US","79 Wolf Rd, Albany, New York, 12205",42.71432790565973,-73.81228835033825
+5900 Jericho Turnpike,Commack,New York (NY),11725,"5900 Jericho Turnpike, Commack, NY, 11725, US","5900 Jericho Tpke, Commack, New York, 11725",40.8403043406272,-73.30749108144431
+910 Old Country Rd,Garden City,New York (NY),11530,"910 Old Country Rd, Garden City, NY, 11530, US","910 Old Country Rd, Garden City, New York, 11530",40.74449202080467,-73.60405832231234
+3 Halfmoon Crossing Blvd,Halfmoon,New York (NY),12065,"3 Halfmoon Crossing Blvd, Halfmoon, NY, 12065, US","3 Halfmoon Crossing Blvd, Clifton Park, New York, 12065",42.85832601480276,-73.7666898582651
+215 N Central Ave,Hartsdale,New York (NY),10530,"215 N Central Ave, Hartsdale, NY, 10530, US","215 N Central Ave, Hartsdale, New York, 10530",41.02607459808982,-73.79334969157043
+1280 West Broadway,Hewlett,New York (NY),11557,"1280 West Broadway, Hewlett, NY, 11557, US","1280 W Broadway, Hewlett, New York, 11557",40.63913992170205,-73.70169089813795
+744 S Meadow Street,Ithaca,New York (NY),14850,"744 S Meadow Street, Ithaca, NY, 14850, US","744 S Meadow St, Ithaca, New York, 14850",42.42897720189251,-76.51058366359705
+2085 Smith Haven Plaza,Lake Grove,New York (NY),11755,"2085 Smith Haven Plaza, Lake Grove, NY, 11755, US","2085 Smith Haven Plz, Lake Grove, New York, 11755",40.87040657617085,-73.12847435953948
+1260 Boston Post Rd,Larchmont,New York (NY),10538,"1260 Boston Post Rd, Larchmont, NY, 10538, US","1260 Boston Post Rd, Larchmont, New York, 10538",40.93794072185628,-73.74582433660073
+22-43 Jackson Ave,Long Island City,New York (NY),11101,"22-43 Jackson Ave, Long Island City, NY, 11101, US","22-43 Jackson Ave, Long Island City, New York, 11101",40.745802154180495,-73.94614013561333
+1714 Merrick Rd,Merrick,New York (NY),11566,"1714 Merrick Rd, Merrick, NY, 11566, US","1714 Merrick Rd, Merrick, New York, 11566",40.653561195662974,-73.5587684687035
+2073 Broadway,New York,New York (NY),10023,"2073 Broadway, New York, NY, 10023, US","2073 Broadway, New York, New York, 10023",40.778546268482955,-73.98227326291719
+675 6th Ave,New York,New York (NY),10010,"675 6th Ave, New York, NY, 10010, US","675 6th Ave, New York, New York, 10010",40.74174977782109,-73.99373214991996
+436 East 14th St,New York,New York (NY),10009,"436 East 14th St, New York, NY, 10009, US","436 E 14th St, New York, New York, 10009",40.730575870513476,-73.9809137568889
+400 Grand St. (Cellar),New York,New York (NY),10002,"400 Grand St. (Cellar), New York, NY, 10002, US","400 Grand St, New York, New York, 10002",40.71612791191606,-73.98680032882224
+200 E 32nd St,New York,New York (NY),10016,"200 E 32nd St, New York, NY, 10016, US","200 E 32nd St, New York, New York, 10016",40.74404912104086,-73.97890055271746
+233 Spring Street,New York,New York (NY),10013,"233 Spring Street, New York, NY, 10013, US","233 Spring St, New York, New York, 10013",40.72569790795711,-74.00487556774397
+142 E 14th St,New York,New York (NY),10003,"142 E 14th St, New York, NY, 10003, US","142 E 14th St, New York, New York, 10003",40.73368037053131,-73.98829118755816
+405 E. 59th Street,New York,New York (NY),10022,"405 E. 59th Street, New York, NY, 10022, US","405 E 59th St, New York, New York, 10022",40.75873798540019,-73.95974900448316
+670 Columbus Ave,New York,New York (NY),10025,"670 Columbus Ave, New York, NY, 10025, US","670 Columbus Ave, New York, New York, 10025",40.790695250402536,-73.96934048923167
+3418 Long Beach Rd,Oceanside,New York (NY),11572,"3418 Long Beach Rd, Oceanside, NY, 11572, US","3418 Long Beach Rd, Oceanside, New York, 11572",40.62691126979277,-73.6411588888807
+425 S Oyster Bay Rd,Plainview,New York (NY),11803,"425 S Oyster Bay Rd, Plainview, NY, 11803, US","425 S Oyster Bay Rd, Plainview, New York, 11803",40.78175243026658,-73.50162895093747
+9030 Metropolitan Ave,Rego Park,New York (NY),11374,"9030 Metropolitan Ave, Rego Park, NY, 11374, US","90-30 Metropolitan Ave, Rego Park, New York, 11374",40.711602426323374,-73.8586345130132
+3349 Monroe Ave,Rochester,New York (NY),14618,"3349 Monroe Ave, Rochester, NY, 14618, US","3349 Monroe Ave, Rochester, New York, 14618",43.10177354286506,-77.54155683216712
+727 White Plains Rd,Scarsdale,New York (NY),10583,"727 White Plains Rd, Scarsdale, NY, 10583, US","727 White Plains Rd, Scarsdale, New York, 10583",40.972120503283236,-73.80487203921119
+2385 Richmond Ave,Staten Island,New York (NY),10314,"2385 Richmond Ave, Staten Island, NY, 10314, US","2385 Richmond Ave, Staten Island, New York, 10314",40.589848296060154,-74.1659900798304
+3422 Erie Blvd E,Syracuse,New York (NY),13214,"3422 Erie Blvd E, Syracuse, NY, 13214, US","3422 Erie Blvd E, Syracuse, New York, 13214",43.04625847984397,-76.07040500085354
+3240 Crompond Road,Yorktown,New York (NY),10598,"3240 Crompond Road, Yorktown, NY, 10598, US","3240 Crompond Rd, Yorktown Heights, New York, 10598",41.29124929222927,-73.82446986448917
+7788 Montgomery Rd,Cincinnati,Ohio (OH),45236,"7788 Montgomery Rd, Cincinnati, OH, 45236, US","7788 Montgomery Rd, Cincinnati, Ohio, 45236",39.19738401155797,-84.3817390056242
+3888 Townsfair Way,Columbus,Ohio (OH),43219,"3888 Townsfair Way, Columbus, OH, 43219, US","3888 Townsfair Way, Columbus, Ohio, 43219",40.04934399391027,-82.91822099262765
+6355 Sawmill Rd,Dublin,Ohio (OH),43017,"6355 Sawmill Rd, Dublin, OH, 43017, US","6355 Sawmill Rd, Dublin, Ohio, 43017",40.096375020265754,-83.09319900492821
+328 East Stroop Rd,Kettering,Ohio (OH),45429,"328 East Stroop Rd, Kettering, OH, 45429, US","328 E Stroop Rd, Dayton, Ohio, 45429",39.688387014758035,-84.16564398639167
+9474 Mentor Ave,Mentor,Ohio (OH),44060,"9474 Mentor Ave, Mentor, OH, 44060, US","9474 Mentor Ave, Mentor, Ohio, 44060",41.680631534024826,-81.30035735299646
+175 Market St,Westlake,Ohio (OH),44145,"175 Market St, Westlake, OH, 44145, US","175 Market St, Westlake, Ohio, 44145",41.45717398331368,-81.95103301757528
+28425 Chagrin Blvd,Woodmere,Ohio (OH),44122,"28425 Chagrin Blvd, Woodmere, OH, 44122, US","28425 Chagrin Blvd, Beachwood, Ohio, 44122",41.462407313770676,-81.47823300665372
+6409 Avondale Dr,Nichols Hills,Oklahoma (OK),73116,"6409 Avondale Dr, Nichols Hills, OK, 73116, US","6409 Avondale Dr, Nichols Hills, Oklahoma, 73116",35.537924000778204,-97.53206699971672
+3702 S Peoria Ave,Tulsa,Oklahoma (OK),74105,"3702 S Peoria Ave, Tulsa, OK, 74105, US","3702 S Peoria Ave, Tulsa, Oklahoma, 74105",36.10937102050957,-95.97628803736357
+11753 SW Beaverton Hillsdale Hwy,Beaverton,Oregon (OR),97005,"11753 SW Beaverton Hillsdale Hwy, Beaverton, OR, 97005, US","11753 SW Beaverton Hillsdale Hwy, Beaverton, Oregon, 97005",45.487824019737474,-122.79758602511026
+63455 N Hwy 97,Bend,Oregon (OR),97701,"63455 N Hwy 97, Bend, OR, 97701, US","63455 N Highway 97, Bend, Oregon, 97703",44.10031901397758,-121.30277602062691
+9345 SE 82nd Ave,Clackamas,Oregon (OR),97086,"9345 SE 82nd Ave, Clackamas, OR, 97086, US","9345 SE 82nd Ave, Happy Valley, Oregon, 97086",45.45580200639358,-122.58066899263332
+1550 NW 9th St,Corvallis,Oregon (OR),97330,"1550 NW 9th St, Corvallis, OR, 97330, US","1550 NW 9th St, Corvallis, Oregon, 97330",44.582304011370184,-123.26005300658758
+85 Oakway Center,Eugene,Oregon (OR),97401,"85 Oakway Center, Eugene, OR, 97401, US","85 Oakway Ctr, Eugene, Oregon, 97401",44.066324990273614,-123.0758959721196
+2285 NW 185th Ave,Hillsboro,Oregon (OR),97124,"2285 NW 185th Ave, Hillsboro, OR, 97124, US","2285 NW 185th Ave, Hillsboro, Oregon, 97124",45.53617498629549,-122.86979997664216
+15391 SW Bangy Rd,Lake Oswego,Oregon (OR),97035,"15391 SW Bangy Rd, Lake Oswego, OR, 97035, US","15391 Bangy Rd, Lake Oswego, Oregon, 97035",45.41381298816475,-122.74324899667094
+55 Rossanley Dr,Medford,Oregon (OR),97501,"55 Rossanley Dr, Medford, OR, 97501, US","55 Rossanley Dr, Medford, Oregon, 97501",42.34327898935567,-122.88159197330549
+4121 NE Halsey St,Portland,Oregon (OR),97232,"4121 NE Halsey St, Portland, OR, 97232, US","4121 NE Halsey St, Portland, Oregon, 97232",45.534685983105874,-122.6208159619108
+2122 NW Glisan St,Portland,Oregon (OR),97210,"2122 NW Glisan St, Portland, OR, 97210, US","2122 NW Glisan St, Portland, Oregon, 97210",45.52606201056673,-122.69510300955507
+4715 SE Cesar Chavez Blvd,Portland,Oregon (OR),97202,"4715 SE Cesar Chavez Blvd, Portland, OR, 97202, US","4715 SE Cesar E Chavez Blvd, Portland, Oregon, 97202",45.488861992717204,-122.62358903075736
+7215 SW Garden Home Road,Portland,Oregon (OR),97223,"7215 SW Garden Home Road, Portland, OR, 97223, US","7215 SW Garden Home Rd, Portland, Oregon, 97223",45.46620801345733,-122.7508620278681
+4450 Commercial St SE,Salem,Oregon (OR),97302,"4450 Commercial St SE, Salem, OR, 97302, US","4450 Commercial St SE, Salem, Oregon, 97302",44.88965364866408,-123.0325518935139
+16200 SW Pacific Hwy,Tigard,Oregon (OR),97224,"16200 SW Pacific Hwy, Tigard, OR, 97224, US","16200 SW Pacific Hwy, Portland, Oregon, 97224",45.40291399946571,-122.79383596162955
+112 Coulter Ave,Ardmore,Pennsylvania (PA),19003,"112 Coulter Ave, Ardmore, PA, 19003, US","112 Coulter Ave, Ardmore, Pennsylvania, 19003",40.00787272045023,-75.28658477278135
+3545 Gettysburg Road,Camp Hill,Pennsylvania (PA),17011,"3545 Gettysburg Road, Camp Hill, PA, 17011, US","3545 Gettysburg Rd, Camp Hill, Pennsylvania, 17011",40.22440084019182,-76.93722900110326
+933 Old York Rd,Jenkintown,Pennsylvania (PA),19046,"933 Old York Rd, Jenkintown, PA, 19046, US","933 Old York Rd, Jenkintown, Pennsylvania, 19046",40.10827537877314,-75.12307613674088
+12 E State St,Media,Pennsylvania (PA),19063,"12 E State St, Media, PA, 19063, US","12 E State St, Media, Pennsylvania, 19063",39.91755101360266,-75.38887999737118
+1460 Bethlehem Pike,North Wales,Pennsylvania (PA),19454,"1460 Bethlehem Pike, North Wales, PA, 19454, US","1460 Bethlehem Pike, North Wales, Pennsylvania, 19454",40.208900980748666,-75.22335702330962
+1324 Arch St.,Philadelphia,Pennsylvania (PA),19107,"1324 Arch St., Philadelphia, PA, 19107, US","1324 Arch St, Philadelphia, Pennsylvania, 19107",39.9540420062626,-75.16245998216907
+2121 Market St,Philadelphia,Pennsylvania (PA),19103,"2121 Market St, Philadelphia, PA, 19103, US","2121 Market St, Philadelphia, Pennsylvania, 19103",39.954274981261364,-75.17614201417945
+6343 Penn Ave,Pittsburgh,Pennsylvania (PA),15206,"6343 Penn Ave, Pittsburgh, PA, 15206, US","6343 Penn Ave, Pittsburgh, Pennsylvania, 15206",40.45922400451229,-79.91923697289045
+9020 Covenant Ave,Pittsburgh,Pennsylvania (PA),15237,"9020 Covenant Ave, Pittsburgh, PA, 15237, US","9020 Covenant Ave, Pittsburgh, Pennsylvania, 15237",40.570357982334855,-80.02224000171863
+1630 Washington Rd,Pittsburgh,Pennsylvania (PA),15241,"1630 Washington Rd, Pittsburgh, PA, 15241, US","1630 Washington Rd, Pittsburgh, Pennsylvania, 15241",40.35132498031078,-80.0517520122471
+243 Patriot Lane,State College,Pennsylvania (PA),16803,"243 Patriot Lane, State College, PA, 16803, US","243 Patriot Ln, State College, Pennsylvania, 16803",40.81040001512059,-77.9022939959086
+171 E Swedesford Rd,Wayne,Pennsylvania (PA),19087,"171 E Swedesford Rd, Wayne, PA, 19087, US","171 E Swedesford Rd, Wayne, Pennsylvania, 19087",40.07400116421002,-75.43127272996645
+425 S Main St,Providence,Rhode Island (RI),02903,"425 S Main St, Providence, RI, 02903, US","425 S Main St, Providence, Rhode Island, 02903",41.820436321185625,-71.40345537596977
+1000 Bald Hill Rd,Warwick,Rhode Island (RI),02886,"1000 Bald Hill Rd, Warwick, RI, 02886, US","1000 Bald Hill Rd, Warwick, Rhode Island, 02886",41.712317020498375,-71.48740397369833
+4516 Forest Drive,Columbia,South Carolina (SC),29206,"4516 Forest Drive, Columbia, SC, 29206, US","4516 Forest Dr, Columbia, South Carolina, 29206",34.02007201873701,-80.9727850374639
+59 Woodruff Industrial Ln,Greenville,South Carolina (SC),29607,"59 Woodruff Industrial Ln, Greenville, SC, 29607, US","59 Woodruff Industrial Ln, Greenville, South Carolina, 29607",34.828811010731755,-82.3058279986986
+401 Johnnie Dodds Blvd,Mt. Pleasant,South Carolina (SC),29464,"401 Johnnie Dodds Blvd, Mt. Pleasant, SC, 29464, US","401 Johnnie Dodds Blvd, Mount Pleasant, South Carolina, 29464",32.80490585733433,-79.88724995399231
+2111 Gunbarrel Road,Chattanooga,Tennessee (TN),37421,"2111 Gunbarrel Road, Chattanooga, TN, 37421, US","2111 Gunbarrel Rd, Chattanooga, Tennessee, 37421",35.032848997522535,-85.15471803264447
+545 Cool Springs Blvd,Franklin,Tennessee (TN),37067,"545 Cool Springs Blvd, Franklin, TN, 37067, US","545 Cool Springs Blvd, Franklin, Tennessee, 37067",35.94922901873906,-86.82203900386675
+2130 Exeter Rd.,Germantown,Tennessee (TN),38138,"2130 Exeter Rd., Germantown, TN, 38138, US","2130 Exeter Rd, Germantown, Tennessee, 38138",35.09079200452696,-89.80102899940732
+8001 Kingston Pike,Knoxville,Tennessee (TN),37919,"8001 Kingston Pike, Knoxville, TN, 37919, US","8001 Kingston Pike, Knoxville, Tennessee, 37919",35.926328988711504,-84.0461590346164
+90 White Bridge Rd,Nashville,Tennessee (TN),37205,"90 White Bridge Rd, Nashville, TN, 37205, US","90 White Bridge Rd, Nashville, Tennessee, 37205",36.12931676733721,-86.85412402412696
+3909 Hillsboro Pike,Nashville,Tennessee (TN),37215,"3909 Hillsboro Pike, Nashville, TN, 37215, US","3909 Hillsboro Pike, Nashville, Tennessee, 37215",36.10512600564637,-86.81526500117745
+9722 Great Hills Trail,Austin,Texas (TX),78759,"9722 Great Hills Trail, Austin, TX, 78759, US","9722 Great Hills Trl, Austin, Texas, 78759",30.395332994123606,-97.75128100893986
+2805 Bee Cave Rd,Austin,Texas (TX),78746,"2805 Bee Cave Rd, Austin, TX, 78746, US","2805 Bee Cave Rd, Austin, Texas, 78746",30.270940885696014,-97.78955786920325
+"211 Walter Seaholm Dr, Ste 100",Austin,Texas (TX),78701,"211 Walter Seaholm Dr, Ste 100, Austin, TX, 78701, US","211 Walter Seaholm Dr, Ste 100, Austin, Texas, 78701",30.267510018436013,-97.75271397910673
+14856 Preston Rd,Dallas,Texas (TX),75254,"14856 Preston Rd, Dallas, TX, 75254, US","14856 Preston Rd, Dallas, Texas, 75254",32.95049599509244,-96.80102498121607
+4525 Cole Ave,Dallas,Texas (TX),75205,"4525 Cole Ave, Dallas, TX, 75205, US","4525 Cole Ave, Dallas, Texas, 75205",32.82244901304247,-96.78977697006881
+2001 Greenville Ave,Dallas,Texas (TX),75206,"2001 Greenville Ave, Dallas, TX, 75206, US","2001 Greenville Ave, Dallas, Texas, 75206",32.814808992117094,-96.77051502129552
+7939 Walnut Hill Lane,Dallas,Texas (TX),75230,"7939 Walnut Hill Lane, Dallas, TX, 75230, US","7939 Walnut Hill Ln, Dallas, Texas, 75230",32.880896987803695,-96.77223498782713
+5550 W Lovers Lane,Dallas,Texas (TX),75209,"5550 W Lovers Lane, Dallas, TX, 75209, US","5550 W Lovers Ln, Dallas, Texas, 75209",32.850415987358616,-96.81896401421119
+2701 S Hulen St,Fort Worth,Texas (TX),76109,"2701 S Hulen St, Fort Worth, TX, 76109, US","2701 S Hulen St, Fort Worth, Texas, 76109",32.71195101212335,-97.38508999225921
+2922 S Shepherd Drive,Houston,Texas (TX),77098,"2922 S Shepherd Drive, Houston, TX, 77098, US","2922 S Shepherd Dr, Houston, Texas, 77098",29.73907800379166,-95.41131297844058
+1440 South Voss Road,Houston,Texas (TX),77057,"1440 South Voss Road, Houston, TX, 77057, US","1440 S Voss Rd, Houston, Texas, 77057",29.75275798223575,-95.50167098431926
+11683 Westheimer Rd,Houston,Texas (TX),77077,"11683 Westheimer Rd, Houston, TX, 77077, US","11683 Westheimer Rd, Houston, Texas, 77077",29.735370017464916,-95.58239700998291
+2717 Commercial Center Blvd,Katy,Texas (TX),77494,"2717 Commercial Center Blvd, Katy, TX, 77494, US","2717 Commercial Center Blvd, Katy, Texas, 77494",29.740029014525945,-95.77497198980998
+2851 Craig Dr Ste 100,McKinney,Texas (TX),75070,"2851 Craig Dr Ste 100, McKinney, TX, 75070, US","2851 Craig Dr, Ste 100, Mckinney, Texas, 75072",33.17391499559112,-96.6427919998033
+2400 Preston Rd,Plano,Texas (TX),75093,"2400 Preston Rd, Plano, TX, 75093, US","2400 Preston Rd, Plano, Texas, 75093",33.02940800927087,-96.79329996779249
+350 East Basse Road,San Antonio,Texas (TX),78209,"350 East Basse Road, San Antonio, TX, 78209, US","350 E Basse Rd, San Antonio, Texas, 78209",29.49671900342065,-98.47803400758562
+403 N Loop 1604 W,San Antonio,Texas (TX),78232,"403 N Loop 1604 W, San Antonio, TX, 78232, US","403 N Loop 1604 W, San Antonio, Texas, 78232",29.609299991097913,-98.49898901698133
+1492 E Southlake Blvd,Southlake,Texas (TX),76092,"1492 E Southlake Blvd, Southlake, TX, 76092, US","1492 E Southlake Blvd, Southlake, Texas, 76092",32.94177998925642,-97.12970999867176
+10868 Kuykendahl Road,The Woodlands,Texas (TX),77381,"10868 Kuykendahl Road, The Woodlands, TX, 77381, US","10868 Kuykendahl Rd, Spring, Texas, 77381",30.176038979634654,-95.53621800408523
+6989 S 1300 E,Cottonwood Heights,Utah (UT),84047,"6989 S 1300 E, Cottonwood Heights, UT, 84047, US","6989 S 1300 E, Midvale, Utah, 84047",40.62424599222106,-111.85381801419604
+11479 State Street,Draper,Utah (UT),84020,"11479 State Street, Draper, UT, 84020, US","11479 S State St, Draper, Utah, 84020",40.5428919943715,-111.89000101382379
+440 East Park Avenue,Orem,Utah (UT),84097,"440 East Park Avenue, Orem, UT, 84097, US","440 Park Ave, Orem, Utah, 84097",40.27596701880728,-111.68505903877553
+634 East 400 South,Salt Lake City,Utah (UT),84102,"634 East 400 South, Salt Lake City, UT, 84102, US","634 E 400 S, Salt Lake City, Utah, 84102",40.759707983005654,-111.87300603458333
+612 N Saint Asaph St,Alexandria,Virginia (VA),22314,"612 N Saint Asaph St, Alexandria, VA, 22314, US","612 N Saint Asaph St, Alexandria, Virginia, 22314",38.81095099207525,-77.04508296076445
+1109 N Highland St,Arlington,Virginia (VA),22201,"1109 N Highland St, Arlington, VA, 22201, US","1109 N Highland St, Arlington, Virginia, 22201",38.88672301959559,-77.0943890032798
+44755 Brimfield Dr,Ashburn,Virginia (VA),20147,"44755 Brimfield Dr, Ashburn, VA, 20147, US","44755 Brimfield Dr, Ashburn, Virginia, 20147",39.05037397940194,-77.45303303816031
+5847 Leesburg Pike,Bailey's Crossroads,Virginia (VA),22041,"5847 Leesburg Pike, Bailey's Crossroads, VA, 22041, US","5847 Leesburg Pike, Falls Church, Virginia, 22041",38.8509424351393,-77.13257108681489
+14100 Lee Hwy,Centreville,Virginia (VA),20120,"14100 Lee Hwy, Centreville, VA, 20120, US","14100 Lee Hwy, Centreville, Virginia, 20120",38.84029825629679,-77.4325402069057
+2025 Bond St.,Charlottesville,Virginia (VA),22901,"2025 Bond St., Charlottesville, VA, 22901, US","2025 Bond St, Charlottesville, Virginia, 22901",38.06596898849401,-78.49264199775301
+9464 Main St,Fairfax,Virginia (VA),22031,"9464 Main St, Fairfax, VA, 22031, US","9464 Main St, Fairfax, Virginia, 22031",38.84262201322366,-77.27066696494383
+7514 Leesburg Turnpike,Falls Church,Virginia (VA),22043,"7514 Leesburg Turnpike, Falls Church, VA, 22043, US","7514 Leesburg Pike, Falls Church, Virginia, 22043",38.90435070679726,-77.20383461434572
+11331 W Broad St,Glen Allen,Virginia (VA),23060,"11331 W Broad St, Glen Allen, VA, 23060, US","11331 W Broad St, Glen Allen, Virginia, 23060",37.64886997996311,-77.6066699706049
+12551 Jefferson Ave,Newport News,Virginia (VA),23602,"12551 Jefferson Ave, Newport News, VA, 23602, US","12551 Jefferson Ave, Newport News, Virginia, 23602",37.130402539451794,-76.5153831413553
+11958 Killingsworth Ave,Reston,Virginia (VA),20194,"11958 Killingsworth Ave, Reston, VA, 20194, US","11958 Killingsworth Ave, Reston, Virginia, 20194",38.967213597599056,-77.35907039482103
+3000 Stony Point Rd,Richmond,Virginia (VA),23235,"3000 Stony Point Rd, Richmond, VA, 23235, US","3000 Stony Point Rd, Richmond, Virginia, 23235",37.538789020636486,-77.56423700487439
+6394 Springfield Plaza,Springfield,Virginia (VA),22150,"6394 Springfield Plaza, Springfield, VA, 22150, US","6394 Springfield Plz, Springfield, Virginia, 22150",38.78162761627772,-77.18916871454063
+503 Hilltop Plaza,Virginia Beach,Virginia (VA),23454,"503 Hilltop Plaza, Virginia Beach, VA, 23454, US","503 Hilltop Plz, Virginia Beach, Virginia, 23454",36.84868798910114,-76.02533601039337
+5000 Settlers Market Blvd,Williamsburg,Virginia (VA),23188,"5000 Settlers Market Blvd, Williamsburg, VA, 23188, US","5000 Settlers Market Blvd, Williamsburg, Virginia, 23188",37.27710998490318,-76.74775196087907
+200 Dorset St,South Burlington,Vermont (VT),05403,"200 Dorset St, South Burlington, VT, 05403, US","200 Dorset St, South Burlington, Vermont, 05403",44.46374500843871,-73.1804380254729
+15563 NE 24th St,Bellevue,Washington (WA),98007,"15563 NE 24th St, Bellevue, WA, 98007, US","15563 NE 24th St, Bellevue, Washington, 98007",47.630721017546364,-122.13340896281107
+416 116th Ave NE,Bellevue,Washington (WA),98004,"416 116th Ave NE, Bellevue, WA, 98004, US","416 116th Ave NE, Bellevue, Washington, 98004",47.61356900334991,-122.18448400599159
+2410 James St,Bellingham,Washington (WA),98225,"2410 James St, Bellingham, WA, 98225, US","2410 James St, Bellingham, Washington, 98225",48.76231700589989,-122.46391603837904
+15868 1st Ave S,Burien,Washington (WA),98148,"15868 1st Ave S, Burien, WA, 98148, US","15868 1st Ave S, Burien, Washington, 98148",47.46009602093142,-122.33138096627377
+811 SE Everett Mall Way,Everett,Washington (WA),98208,"811 SE Everett Mall Way, Everett, WA, 98208, US","811 SE Everett Mall Way, Everett, Washington, 98208",47.910728006582104,-122.22139396808174
+1758 S 320th St,Federal Way,Washington (WA),98003,"1758 S 320th St, Federal Way, WA, 98003, US","1758 S 320th St, Federal Way, Washington, 98003",47.316902981752946,-122.3101190115838
+975 NW Gilman Blvd,Issaquah,Washington (WA),98027,"975 NW Gilman Blvd, Issaquah, WA, 98027, US","975 NW Gilman Blvd, Issaquah, Washington, 98027",47.54403001048789,-122.05218999742166
+12966 SE Kent-Kangley Rd,Kent,Washington (WA),98030,"12966 SE Kent-Kangley Rd, Kent, WA, 98030, US","12966 SE Kent Kangley Rd, Kent, Washington, 98030",47.36002401791515,-122.16790099729221
+12520 Totem Lake Blvd NE,Kirkland,Washington (WA),98034,"12520 Totem Lake Blvd NE, Kirkland, WA, 98034, US","12520 Totem Lake Blvd NE, Kirkland, Washington, 98034",47.71258199480948,-122.18100702491635
+19715 Highway 99,Lynnwood,Washington (WA),98036,"19715 Highway 99, Lynnwood, WA, 98036, US","19715 Highway 99, Lynnwood, Washington, 98036",47.820051991296964,-122.3139369684802
+1530 Black Lake Blvd SW,Olympia,Washington (WA),98502,"1530 Black Lake Blvd SW, Olympia, WA, 98502, US","1530 Black Lake Blvd SW, Olympia, Washington, 98502",47.03325698945358,-122.93766598353986
+15932 Redmond Way,Redmond,Washington (WA),98052,"15932 Redmond Way, Redmond, WA, 98052, US","15932 Redmond Way, Redmond, Washington, 98052",47.67584101188734,-122.12891299376679
+490 228th Ave NE,Sammamish,Washington (WA),98074,"490 228th Ave NE, Sammamish, WA, 98074, US","490 228th Ave NE, Sammamish, Washington, 98074",47.613617995573975,-122.03417603021217
+4609 14th Ave NW,Seattle,Washington (WA),98107,"4609 14th Ave NW, Seattle, WA, 98107, US","4609 14th Ave NW, Seattle, Washington, 98107",47.662573003984335,-122.37421500607124
+1700 Madison St,Seattle,Washington (WA),98122,"1700 Madison St, Seattle, WA, 98122, US","1700 E Madison St, Seattle, Washington, 98122",47.61611098312591,-122.30973797026545
+1916 Queen Anne Ave N,Seattle,Washington (WA),98109,"1916 Queen Anne Ave N, Seattle, WA, 98109, US","1916 Queen Anne Ave N, Seattle, Washington, 98109",47.636481983417866,-122.35657302772466
+4555 Roosevelt Way NE,Seattle,Washington (WA),98105,"4555 Roosevelt Way NE, Seattle, WA, 98105, US","4555 Roosevelt Way NE, Seattle, Washington, 98105",47.662597982055786,-122.31777898143874
+4545 Fauntleroy Way SW,Seattle,Washington (WA),98116,"4545 Fauntleroy Way SW, Seattle, WA, 98116, US","4545 Fauntleroy Way SW, Seattle, Washington, 98126",47.56192499658184,-122.3810559801669
+1201 N 175th St,Shoreline,Washington (WA),98133,"1201 N 175th St, Shoreline, WA, 98133, US","1201 N 175th St, Shoreline, Washington, 98133",47.754799000804695,-122.34323498902062
+9991 Mickelberry Rd,Silverdale,Washington (WA),98383,"9991 Mickelberry Rd, Silverdale, WA, 98383, US","9991 Mickelberry Rd NW, Silverdale, Washington, 98383",47.655499012980385,-122.68333800261996
+2975 East 29th Ave,Spokane,Washington (WA),99223,"2975 East 29th Ave, Spokane, WA, 99223, US","2975 E 29th Ave, Spokane, Washington, 99223",47.62892963719969,-117.36679572489429
+5520 N Division St,Spokane,Washington (WA),99208,"5520 N Division St, Spokane, WA, 99208, US","5520 N Division St, Spokane, Washington, 99208",47.708896639621315,-117.40958567588106
+3800 Bridgeport Way W,University Place,Washington (WA),98466,"3800 Bridgeport Way W, University Place, WA, 98466, US","3800 Bridgeport Way W, University Place, Washington, 98466",47.22312499174063,-122.53809898278587
+305 SE Chkalov Dr,Vancouver,Washington (WA),98683,"305 SE Chkalov Dr, Vancouver, WA, 98683, US","305 SE Chkalov Dr, Vancouver, Washington, 98683",45.618833669283816,-122.55430497348044
+12665 W. Bluemound Rd,Brookfield,Wisconsin (WI),53005,"12665 W. Bluemound Rd, Brookfield, WI, 53005, US","12665 W Bluemound Rd, Brookfield, Wisconsin, 53005",43.03567699763724,-88.07012299451517
+1810 Monroe St,Madison,Wisconsin (WI),53711,"1810 Monroe St, Madison, WI, 53711, US","1810 Monroe St, Madison, Wisconsin, 53711",43.065148020659166,-89.4174509818747
+5600 N Port Washington Rd,Milwaukee,Wisconsin (WI),53217,"5600 N Port Washington Rd, Milwaukee, WI, 53217, US","5600 N Port Washington Rd, Milwaukee, Wisconsin, 53217",43.11895799502682,-87.91533103581301
